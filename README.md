@@ -28,7 +28,7 @@
 </div>
 
 ## 🔥 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=notcaliper&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=notcaliper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=notcaliper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
