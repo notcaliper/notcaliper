@@ -27,9 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 🔥 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=notcaliper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=notcaliper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
