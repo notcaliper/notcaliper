@@ -69,9 +69,12 @@ const akshay = {
 ## 💼 Featured Projects
 
 <div align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=tokyonight&hide_border=true)](https://github.com/notcaliper/HandGaze)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=tokyonight&hide_border=true)](https://github.com/notcaliper/ASEP-AIDS)
 
+</div>
 </div>
 
 ---
