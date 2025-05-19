@@ -1,0 +1,41 @@
+<svg width="300" height="50" viewBox="0 0 300 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6">
+        <animate attributeName="stop-color" values="#3B82F6;#8B5CF6;#06B6D4;#3B82F6" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#06B6D4;#3B82F6;#8B5CF6" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#06B6D4">
+        <animate attributeName="stop-color" values="#06B6D4;#3B82F6;#8B5CF6;#06B6D4" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    
+    <!-- Animated gradient flow -->
+    <linearGradient id="flowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.1">
+        <animate attributeName="offset" values="0;1" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="20%" stop-color="#ffffff" stop-opacity="0.3">
+        <animate attributeName="offset" values="0.2;1.2" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.1">
+        <animate attributeName="offset" values="0.4;1.4" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    
+    <!-- Combine both gradients -->
+    <mask id="flowMask">
+      <text x="10" y="35" font-family="Arial, sans-serif" font-weight="bold" font-size="32" fill="url(#flowGradient)">notcaliper</text>
+    </mask>
+  </defs>
+  
+  <!-- Background text layer -->
+  <text x="10" y="35" font-family="Arial, sans-serif" font-weight="bold" font-size="32" fill="url(#textGradient)">notcaliper</text>
+  
+  <!-- Animated flow layer -->
+  <rect x="0" y="0" width="300" height="50" fill="url(#textGradient)" mask="url(#flowMask)" opacity="0.7">
+    <animate attributeName="x" values="-300;300" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg> 
