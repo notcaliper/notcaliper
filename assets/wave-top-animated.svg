@@ -1,0 +1,18 @@
+<svg width="100%" height="60" viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6">
+        <animate attributeName="stop-color" values="#3B82F6;#8B5CF6;#3B82F6" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#3B82F6;#8B5CF6" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#grad1)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,30 Q360,60 720,30 T1440,30 V60 H0 Z;
+              M0,40 Q360,10 720,40 T1440,40 V60 H0 Z;
+              M0,30 Q360,60 720,30 T1440,30 V60 H0 Z"/>
+  </path>
+</svg> 
