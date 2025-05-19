@@ -63,29 +63,116 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="assets/tech-stack-title.svg" width="220" alt="Tech Stack"/>
+</p>
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" title="Python"/><br/>Python</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/><br/>JavaScript</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/><br/>TypeScript</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" title="React"/><br/>React</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/><br/>Node.js</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/><br/>Docker</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" title="AWS"/><br/>AWS</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" title="Git"/><br/>Git</td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/><br/>HTML5</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/><br/>Arduino</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/><br/>OpenCV</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/><br/>Solidity</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/><br/>Linux</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/><br/>VSCode</td>
-      <td align="center" width="90"></td>
-      <td align="center" width="90"></td>
-    </tr>
-  </table>
+  <!-- Languages -->
+  <h3>💻 Languages</h3>
+  <div style="display: inline-block; margin: 0 10px;">
+    <table>
+      <tr>
+        <td align="center" width="100" height="100" style="background: rgba(59, 130, 246, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+          <br />
+          <span style="font-size: 14px;"><b>Python</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(247, 223, 30, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+          <br />
+          <span style="font-size: 14px;"><b>JavaScript</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(0, 122, 204, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+          <br />
+          <span style="font-size: 14px;"><b>TypeScript</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(227, 79, 38, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+          <br />
+          <span style="font-size: 14px;"><b>HTML5</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(67, 43, 140, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+          <br />
+          <span style="font-size: 14px;"><b>Solidity</b></span>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Frameworks & Libraries -->
+  <h3>🧩 Frameworks & Libraries</h3>
+  <div style="display: inline-block; margin: 0 10px;">
+    <table>
+      <tr>
+        <td align="center" width="100" height="100" style="background: rgba(97, 218, 251, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+          <br />
+          <span style="font-size: 14px;"><b>React</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(51, 153, 51, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+          <br />
+          <span style="font-size: 14px;"><b>Node.js</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(6, 182, 212, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+          <br />
+          <span style="font-size: 14px;"><b>OpenCV</b></span>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Tools & Platforms -->
+  <h3>🔧 Tools & Platforms</h3>
+  <div style="display: inline-block; margin: 0 10px;">
+    <table>
+      <tr>
+        <td align="center" width="100" height="100" style="background: rgba(44, 165, 224, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+          <br />
+          <span style="font-size: 14px;"><b>Docker</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(255, 153, 0, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+          <br />
+          <span style="font-size: 14px;"><b>AWS</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(228, 76, 48, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+          <br />
+          <span style="font-size: 14px;"><b>Git</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(0, 120, 212, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+          <br />
+          <span style="font-size: 14px;"><b>VSCode</b></span>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Hardware & IoT -->
+  <h3>🤖 Hardware & IoT</h3>
+  <div style="display: inline-block; margin: 0 10px;">
+    <table>
+      <tr>
+        <td align="center" width="100" height="100" style="background: rgba(0, 200, 200, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+          <br />
+          <span style="font-size: 14px;"><b>Arduino</b></span>
+        </td>
+        <td align="center" width="100" height="100" style="background: rgba(51, 51, 51, 0.1); border-radius: 10px; padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+          <br />
+          <span style="font-size: 14px;"><b>Linux</b></span>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 <img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
