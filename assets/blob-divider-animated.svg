@@ -1,0 +1,20 @@
+<svg width="100%" height="100" viewBox="0 0 1440 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blobGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#06B6D4;#3B82F6;#8B5CF6" dur="15s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#06B6D4">
+        <animate attributeName="stop-color" values="#06B6D4;#3B82F6;#8B5CF6;#06B6D4" dur="15s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  
+  <path fill="url(#blobGradient)">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite"
+      values="M0,64 C288,89 288,46 576,50 C864,54 864,32 1152,40 C1440,48 1440,48 1440,48 L1440,100 L0,100 Z;
+              M0,32 C288,40 288,89 576,82 C864,75 864,24 1152,32 C1440,40 1440,32 1440,32 L1440,100 L0,100 Z;
+              M0,48 C288,43 288,67 576,56 C864,45 864,67 1152,64 C1440,61 1440,61 1440,61 L1440,100 L0,100 Z;
+              M0,64 C288,89 288,46 576,50 C864,54 864,32 1152,40 C1440,48 1440,48 1440,48 L1440,100 L0,100 Z"/>
+  </path>
+</svg> 

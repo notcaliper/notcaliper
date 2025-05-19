@@ -10,8 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I'm+notcaliper!;AI+%7C+Blockchain+%7C+IoT+%7C+Smart+Contracts+%7C+Computer+Vision+Enthusiast;Open+Source+%F0%9F%92%BB+%7C+Full+Stack+Developer"/>
 </p>
 
-<!-- Animated SVG Wave Divider -->
-<img src="assets/wave-top-animated.svg" width="100%" height="60px"/>
+<!-- Animated Gradient Text -->
+<p align="center">
+  <img src="assets/animated-gradient-text.svg" width="300" alt="notcaliper"/>
+</p>
+
+<!-- Multi-Wave Animation (Main Divider) -->
+<img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
 
 <div align="center">
   <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -34,7 +39,8 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 - 🌱 Always learning: Machine Learning, Blockchain, Smart Contracts
 - 💡 Fun fact: I code while chatting with friends!
 
-<img src="assets/wave-top-animated.svg" width="100%" height="60px"/>
+<!-- Blob Divider for Variety -->
+<img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
 
 ## 🤝 Let's Connect
 
@@ -45,7 +51,7 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
   <a href="https://notcaliper.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
-<img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>
+<img src="assets/wave-top-animated.svg" width="100%" height="60px"/>
 
 ---
 
@@ -53,7 +59,7 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 > "Code is not just about solving problems, it's about creating possibilities."
 
-<img src="assets/wave-top-animated.svg" width="100%" height="60px"/>
+<img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
 
 ## 🛠️ Tech Stack
 
@@ -82,7 +88,7 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
   </table>
 </div>
 
-<img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>
+<img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
 
 ---
 
@@ -90,7 +96,7 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 <div align="center">
   <img src="https://img.shields.io/badge/Pinned%20Projects-F59E42?style=for-the-badge&logo=pinboard&logoColor=white"/>
-  <img src="assets/sparkle.gif" width="32" alt="Sparkle animation"/>
+  <img src="assets/animated-sparkle.svg" width="40" alt="Sparkle animation"/>
 </div>
 
 <div align="center">
@@ -151,7 +157,7 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 </div>
 
-<img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>
+<img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
 
 ---
 
@@ -173,17 +179,25 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 ---
 
-<!-- Instructions for user to upload assets -->
+<!-- Instructions for enabling animations -->
 
 <details>
-<summary><b>How to enable full animation:</b></summary>
+<summary><b>✨ How to enable all animations</b></summary>
 
-- Upload the following files to your <code>assets</code> folder in your repository root:
-  - <code>wave-hand.gif</code> (animated waving hand)
-  - <code>wave-top-animated.svg</code> (animated SVG wave for top divider)
-  - <code>wave-bottom-animated.svg</code> (animated SVG wave for bottom divider)
-  - <code>sparkle.gif</code> (animated sparkle accent)
-- You can use your own GIFs/SVGs or the samples provided below.
+<p>For the full animated experience, make sure you have the following files in your <code>assets</code> folder:</p>
+
+<ul>
+  <li><code>wave-hand.gif</code> - Animated waving hand</li>
+  <li><code>wave-top-animated.svg</code> - Top wave divider</li>
+  <li><code>wave-bottom-animated.svg</code> - Bottom wave divider</li>
+  <li><code>multi-wave-animated.svg</code> - Multi-layered wave animation</li>
+  <li><code>blob-divider-animated.svg</code> - Morphing blob divider</li>
+  <li><code>animated-gradient-text.svg</code> - Gradient animated text</li>
+  <li><code>animated-sparkle.svg</code> - Sparkle animation</li>
+  <li><code>sparkle.gif</code> - Sparkle GIF (optional alternative)</li>
+</ul>
+
+<p>All SVG files have been created and are part of this repository. Just use them as shown in the README.</p>
 </details>
 
 
