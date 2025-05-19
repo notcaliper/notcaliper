@@ -1,0 +1,103 @@
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes rotate-cube {
+      0% { transform: rotateX(0deg) rotateY(0deg); }
+      100% { transform: rotateX(360deg) rotateY(360deg); }
+    }
+    .cube {
+      transform-style: preserve-3d;
+      transform-origin: 75px 75px;
+      animation: rotate-cube 15s infinite linear;
+    }
+  </style>
+  
+  <defs>
+    <!-- Face gradients -->
+    <linearGradient id="front-face" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <linearGradient id="back-face" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#6D28D9" />
+    </linearGradient>
+    <linearGradient id="right-face" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+    <linearGradient id="left-face" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+    <linearGradient id="top-face" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <linearGradient id="bottom-face" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EF4444" />
+      <stop offset="100%" stop-color="#B91C1C" />
+    </linearGradient>
+  </defs>
+  
+  <g class="cube">
+    <!-- Front face (unchanged coordinates) -->
+    <polygon points="50,50 100,50 100,100 50,100" fill="url(#front-face)" opacity="0.9">
+      <animate attributeName="points" 
+               values="50,50 100,50 100,100 50,100;
+                      60,60 90,60 90,90 60,90;
+                      50,50 100,50 100,100 50,100" 
+               dur="15s" repeatCount="indefinite" />
+    </polygon>
+    
+    <!-- Back face (z-translated) -->
+    <polygon points="60,60 110,60 110,110 60,110" fill="url(#back-face)" opacity="0.8">
+      <animate attributeName="points" 
+               values="60,60 110,60 110,110 60,110;
+                      40,40 90,40 90,90 40,90;
+                      60,60 110,60 110,110 60,110" 
+               dur="15s" repeatCount="indefinite" />
+    </polygon>
+    
+    <!-- Right face -->
+    <polygon points="100,50 110,60 110,110 100,100" fill="url(#right-face)" opacity="0.85">
+      <animate attributeName="points" 
+               values="100,50 110,60 110,110 100,100;
+                      90,60 90,40 90,90 90,90;
+                      100,50 110,60 110,110 100,100" 
+               dur="15s" repeatCount="indefinite" />
+    </polygon>
+    
+    <!-- Left face -->
+    <polygon points="50,50 60,60 60,110 50,100" fill="url(#left-face)" opacity="0.85">
+      <animate attributeName="points" 
+               values="50,50 60,60 60,110 50,100;
+                      60,60 40,40 40,90 60,90;
+                      50,50 60,60 60,110 50,100" 
+               dur="15s" repeatCount="indefinite" />
+    </polygon>
+    
+    <!-- Top face -->
+    <polygon points="50,50 100,50 110,60 60,60" fill="url(#top-face)" opacity="0.85">
+      <animate attributeName="points" 
+               values="50,50 100,50 110,60 60,60;
+                      60,60 90,60 90,40 40,40;
+                      50,50 100,50 110,60 60,60" 
+               dur="15s" repeatCount="indefinite" />
+    </polygon>
+    
+    <!-- Bottom face -->
+    <polygon points="50,100 100,100 110,110 60,110" fill="url(#bottom-face)" opacity="0.85">
+      <animate attributeName="points" 
+               values="50,100 100,100 110,110 60,110;
+                      60,90 90,90 90,90 40,90;
+                      50,100 100,100 110,110 60,110" 
+               dur="15s" repeatCount="indefinite" />
+    </polygon>
+  </g>
+  
+  <!-- Shadow effect -->
+  <ellipse cx="75" cy="125" rx="40" ry="10" fill="black" opacity="0.2">
+    <animate attributeName="rx" values="40;30;40" dur="15s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;0.1;0.2" dur="15s" repeatCount="indefinite" />
+  </ellipse>
+</svg> 

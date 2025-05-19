@@ -24,7 +24,7 @@
   <a href="https://notcaliper.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
-<img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>
+<img src="assets/wave-top-animated.svg" width="100%" height="60px"/>
 
 ---
 
@@ -32,12 +32,35 @@
 
 > "Building the future, one line of code at a time."
 
+<div align="center">
+  <img src="assets/rotating-cube.svg" width="150" height="150" alt="Rotating Cube" align="right"/>
+</div>
+
 I'm a passionate developer and open-source contributor with a focus on **AI, blockchain, IoT, smart contracts, and computer vision**. My projects span JavaScript, TypeScript, Python, and HTML, and I love building innovative solutions that bridge the gap between emerging tech and real-world applications.
 
 - 🔭 Currently exploring: **AI, Web3, and IoT**
 - 🛠️ Tech Stack: Python, JavaScript, TypeScript, React, Node.js, Docker, AWS, and more
 - 🌱 Always learning: Machine Learning, Blockchain, Smart Contracts
 - 💡 Fun fact: I code while chatting with friends!
+
+### 🌟 Key Skills
+
+<div>
+  <div style="display: flex; align-items: center; margin-bottom: 8px;">
+    <span style="width: 120px; display: inline-block; font-weight: bold;">AI/ML:</span>
+    <img src="assets/skill-bar-animated.svg" width="300" height="25" alt="AI/ML: 85%"/>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 8px;">
+    <span style="width: 120px; display: inline-block; font-weight: bold;">Full Stack:</span>
+    <img src="assets/skill-bar-animated.svg" width="300" height="25" alt="Full Stack: 85%"/>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 8px;">
+    <span style="width: 120px; display: inline-block; font-weight: bold;">Blockchain:</span>
+    <img src="assets/skill-bar-animated.svg" width="300" height="25" alt="Blockchain: 85%"/>
+  </div>
+</div>
 
 <!-- Blob Divider for Variety -->
 <img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
@@ -179,7 +202,10 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 ---
 
-## 🚩 <span style="color:#F59E42;">Pinned Projects</span>
+<!-- Typing Animation for Section Header -->
+<p align="center">
+  <img src="assets/typing-animation.svg" width="250" height="60" alt="My Projects"/>
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Pinned%20Projects-F59E42?style=for-the-badge&logo=pinboard&logoColor=white"/>
@@ -188,15 +214,15 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 <div align="center">
 
-<table>
+<table class="project-cards">
   <tr>
-    <td align="center" width="320px">
+    <td align="center" width="320px" class="project-card" style="border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
       <a href="https://github.com/notcaliper/HandGaze">
         <img src="https://img.shields.io/badge/HandGaze-vision-blue?style=for-the-badge&logo=opencv&logoColor=white"/><br/>
         <sub>AI-powered computer vision tool for real-time hand gesture recognition and digital communication.</sub>
       </a>
     </td>
-    <td align="center" width="320px">
+    <td align="center" width="320px" class="project-card" style="border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
       <a href="https://github.com/notcaliper/ASEP-AIDS">
         <img src="https://img.shields.io/badge/ASEP--AIDS-iot-green?style=for-the-badge&logo=arduino&logoColor=white"/><br/>
         <sub>IoT-based smart irrigation system with ESP32 and real-time management for agriculture.</sub>
@@ -204,13 +230,13 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
     </td>
   </tr>
   <tr>
-    <td align="center" width="320px">
+    <td align="center" width="320px" class="project-card" style="border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
       <a href="https://github.com/notcaliper/python-parking">
         <img src="https://img.shields.io/badge/python--parking-cv-yellow?style=for-the-badge&logo=python&logoColor=white"/><br/>
         <sub>Computer vision-based parking management system with automated license plate detection.</sub>
       </a>
     </td>
-    <td align="center" width="320px">
+    <td align="center" width="320px" class="project-card" style="border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
       <a href="https://github.com/notcaliper/Form-Generate-script">
         <img src="https://img.shields.io/badge/Form--Generate--script-python-blueviolet?style=for-the-badge&logo=python&logoColor=white"/><br/>
         <sub>Open-source Python script for dynamic form generation. MIT licensed.</sub>
@@ -218,13 +244,13 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
     </td>
   </tr>
   <tr>
-    <td align="center" width="320px">
+    <td align="center" width="320px" class="project-card" style="border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
       <a href="https://github.com/notcaliper/YoLED">
         <img src="https://img.shields.io/badge/YoLED-experimental-lightgrey?style=for-the-badge&logo=raspberrypi&logoColor=white"/><br/>
         <sub>Experimental project. (No public description)</sub>
       </a>
     </td>
-    <td align="center" width="320px">
+    <td align="center" width="320px" class="project-card" style="border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
       <a href="https://github.com/notcaliper/notcaliper.github.io">
         <img src="https://img.shields.io/badge/notcaliper.github.io-website-9cf?style=for-the-badge&logo=vercel&logoColor=white"/><br/>
         <sub>Personal/project website (JavaScript).</sub>
@@ -232,7 +258,7 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
     </td>
   </tr>
   <tr>
-    <td align="center" width="320px">
+    <td align="center" width="320px" class="project-card" style="border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s; overflow: hidden;">
       <a href="https://github.com/notcaliper/notcaliper">
         <img src="https://img.shields.io/badge/notcaliper-utils-informational?style=for-the-badge&logo=github&logoColor=white"/><br/>
         <sub>Miscellaneous utilities and experiments.</sub>
@@ -281,10 +307,20 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
   <li><code>blob-divider-animated.svg</code> - Morphing blob divider</li>
   <li><code>animated-gradient-text.svg</code> - Gradient animated text</li>
   <li><code>animated-sparkle.svg</code> - Sparkle animation</li>
-  <li><code>sparkle.gif</code> - Sparkle GIF (optional alternative)</li>
+  <li><code>tech-stack-title.svg</code> - Animated tech stack title</li>
+  <li><code>skill-bar-animated.svg</code> - Animated skill progress bars</li>
+  <li><code>rotating-cube.svg</code> - 3D rotating cube animation</li>
+  <li><code>typing-animation.svg</code> - Typing effect animation</li>
 </ul>
 
 <p>All SVG files have been created and are part of this repository. Just use them as shown in the README.</p>
 </details>
+
+<style>
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  }
+</style>
 
 

@@ -1,0 +1,42 @@
+<svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="typingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6">
+        <animate attributeName="stop-color" values="#3B82F6;#8B5CF6;#3B82F6" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#06B6D4;#8B5CF6" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    
+    <!-- Text shadow -->
+    <filter id="text-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Typing Animation -->
+  <text x="25" y="40" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="url(#typingGradient)" filter="url(#text-shadow)">
+    <!-- Start with empty string and reveal one letter at a time -->
+    <tspan>
+      <animate attributeName="textContent"
+               values="_;M_;My_;My _; My P_;My Pr_;My Pro_;My Proj_;My Proje_;My Projec_;My Project_;My Projects_;My Projects"
+               dur="4s"
+               repeatCount="1"
+               fill="freeze" />
+    </tspan>
+  </text>
+  
+  <!-- Cursor blink animation -->
+  <rect id="cursor" x="210" y="15" width="3" height="32" fill="#8B5CF6">
+    <animate attributeName="opacity"
+             values="1;1;0;0;1;1"
+             dur="1.2s"
+             repeatCount="indefinite" />
+    <animate attributeName="x"
+             values="25;56;83;112;153;184;210"
+             dur="4s"
+             fill="freeze" />
+  </rect>
+</svg> 
