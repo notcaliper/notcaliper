@@ -1,0 +1,46 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes rotate {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes pulse {
+      0% { opacity: 0.3; }
+      50% { opacity: 1; }
+      100% { opacity: 0.3; }
+    }
+    .star-rotate {
+      animation: rotate 8s linear infinite;
+      transform-origin: center;
+    }
+    .star-pulse-1 {
+      animation: pulse 2s infinite;
+    }
+    .star-pulse-2 {
+      animation: pulse 3s infinite;
+    }
+    .star-pulse-3 {
+      animation: pulse 2.5s infinite;
+    }
+  </style>
+  
+  <g class="star-rotate">
+    <!-- Large star -->
+    <path class="star-pulse-1" fill="#FFD700" d="M30,3 L37,21 L55,21 L40,33 L46,51 L30,40 L14,51 L20,33 L5,21 L23,21 Z">
+      <animate attributeName="fill" values="#FFD700;#F59E42;#FFD700" dur="4s" repeatCount="indefinite" />
+    </path>
+    
+    <!-- Small stars -->
+    <path class="star-pulse-2" fill="#F59E42" d="M30,10 L32,16 L39,16 L34,20 L36,26 L30,22 L24,26 L26,20 L21,16 L28,16 Z">
+      <animate attributeName="fill" values="#F59E42;#8B5CF6;#F59E42" dur="3s" repeatCount="indefinite" />
+    </path>
+    
+    <path class="star-pulse-3" fill="#8B5CF6" d="M18,32 L20,38 L27,38 L22,42 L24,48 L18,44 L12,48 L14,42 L9,38 L16,38 Z">
+      <animate attributeName="fill" values="#8B5CF6;#3B82F6;#8B5CF6" dur="5s" repeatCount="indefinite" />
+    </path>
+    
+    <path class="star-pulse-2" fill="#3B82F6" d="M42,32 L44,38 L51,38 L46,42 L48,48 L42,44 L36,48 L38,42 L33,38 L40,38 Z">
+      <animate attributeName="fill" values="#3B82F6;#06B6D4;#3B82F6" dur="4s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg> 
