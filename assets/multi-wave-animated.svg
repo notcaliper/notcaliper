@@ -1,0 +1,52 @@
+<svg width="100%" height="120" viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave1Grad" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#3B82F6">
+        <animate attributeName="stop-color" values="#3B82F6;#8B5CF6;#3B82F6" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#06B6D4;#8B5CF6" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="wave2Grad" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.7">
+        <animate attributeName="stop-color" values="#8B5CF6;#06B6D4;#8B5CF6" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.7">
+        <animate attributeName="stop-color" values="#06B6D4;#3B82F6;#06B6D4" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="wave3Grad" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.5">
+        <animate attributeName="stop-color" values="#06B6D4;#3B82F6;#06B6D4" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.5">
+        <animate attributeName="stop-color" values="#3B82F6;#8B5CF6;#3B82F6" dur="12s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  
+  <!-- Wave 1 (bottom layer) -->
+  <path fill="url(#wave1Grad)">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="M0,40 C320,80 420,0 720,40 C960,70 1240,10 1440,40 V120 H0 Z;
+              M0,60 C340,20 520,90 720,60 C920,30 1220,80 1440,60 V120 H0 Z;
+              M0,40 C320,80 420,0 720,40 C960,70 1240,10 1440,40 V120 H0 Z"/>
+  </path>
+  
+  <!-- Wave 2 (middle layer) -->
+  <path fill="url(#wave2Grad)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,60 C220,110 420,30 720,60 C990,85 1190,20 1440,60 V120 H0 Z;
+              M0,85 C250,60 630,110 720,85 C940,50 1060,100 1440,85 V120 H0 Z;
+              M0,60 C220,110 420,30 720,60 C990,85 1190,20 1440,60 V120 H0 Z"/>
+  </path>
+  
+  <!-- Wave 3 (top layer) -->
+  <path fill="url(#wave3Grad)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,80 C210,120 580,40 720,80 C860,110 1140,30 1440,80 V120 H0 Z;
+              M0,100 C340,50 580,130 720,100 C860,70 1120,90 1440,100 V120 H0 Z;
+              M0,80 C210,120 580,40 720,80 C860,110 1140,30 1440,80 V120 H0 Z"/>
+  </path>
+</svg> 
