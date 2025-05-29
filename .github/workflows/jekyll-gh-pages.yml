@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy static content to Pages
 
 on:
   push:
@@ -16,10 +16,10 @@ concurrency:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
