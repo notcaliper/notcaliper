@@ -19,8 +19,34 @@
 <img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
 
 <div align="center">
+  <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/notcaliper"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://notcaliper.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</div>
+
+<img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>
+
+---
+
+## 🧑‍💻 About Me
+
+> "Building the future, one line of code at a time."
+
+I'm a passionate developer and open-source contributor with a focus on **AI, blockchain, IoT, smart contracts, and computer vision**. My projects span JavaScript, TypeScript, Python, and HTML, and I love building innovative solutions that bridge the gap between emerging tech and real-world applications.
+
+- 🔭 Currently exploring: **AI, Web3, and IoT**
+- 🛠️ Tech Stack: Python, JavaScript, TypeScript, React, Node.js, Docker, AWS, and more
+- 🌱 Always learning: Machine Learning, Blockchain, Smart Contracts
+- 💡 Fun fact: I code while chatting with friends!
+
+<!-- Blob Divider for Variety -->
+<img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;CI%2FCD+Pipeline+Expert;Automation+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI+%26+ML+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋" />
 <br>
@@ -37,15 +63,13 @@
 
 ```typescript
 const akshay = {
-    currentlyWorking: "Cloud-Native Infrastructure",
-    learning: ["Kubernetes Operators", "GitOps Workflows", "Infrastructure as Code"],
-    passions: ["Automation", "Scalable Architecture", "DevSecOps"],
-    goals2025: "Build resilient multi-cloud infrastructure solutions",
-    funFact: "I solve deployment issues faster with good coffee ☕"
+    currentlyWorking: "Blockchain Solutions",
+    learning: ["Machine Learning", "AI Development", "Web3"],
+    passions: ["Efficient Code", "Scalable Solutions", "Open Source"],
+    goals2025: "Contribute to impactful open-source projects",
+    funFact: "I write code while chatting with my friends "
 };
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Tech Arsenal
 
@@ -62,25 +86,27 @@ const akshay = {
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width=440 src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=notcaliper&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=495" alt="GitHub Streak"/>
-  <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+## 🏆 Achievements
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=notcaliper&theme=discord&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ## 📈 Contribution Graph
