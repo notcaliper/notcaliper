@@ -1,0 +1,29 @@
+title: Akshay - Creative Developer
+description: Portfolio website showcasing skills, projects, and experience as a full-stack developer
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+
+# Theme settings
+theme_settings:
+  # Meta
+  title: Akshay
+  description: Creative Developer
+  
+  # Social
+  github: notcaliper
+  linkedin: notakshay
+  portfolio: notcaliper.me
