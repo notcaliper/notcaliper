@@ -1,20 +1,20 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+Digital+Realm;I'm+notcaliper;Developer+%7C+Innovator+%7C+Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+Digital+Realm;I'm+notcaliper;Developer+%7C+Innovator+%7C+Problem+Solver;Building+the+Future+One+Line+at+a+Time"/>
 </div>
 
 <!-- Animated Avatar -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&count_private=true" />
 </div>
 
 <!-- Animated Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=10" />
 </div>
 
 <!-- Gradient Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%7C+Blockchain+%7C+IoT+%7C+Smart+Contracts+%7C+Computer+Vision;Open+Source+%F0%9F%92%BB+%7C+Full+Stack+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%7C+Blockchain+%7C+IoT+%7C+Smart+Contracts+%7C+Computer+Vision;Open+Source+%F0%9F%92%BB+%7C+Full+Stack+Developer+%7C+DevOps+Engineer"/>
 </div>
 
 <!-- Animated Divider -->
@@ -34,6 +34,9 @@
   <a href="https://twitter.com/notcaliper">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" />
   </a>
+  <a href="https://stackoverflow.com/users/notcaliper">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=black" />
+  </a>
 </div>
 
 <!-- Animated Wave -->
@@ -48,7 +51,7 @@
 I'm a passionate developer and open-source contributor with a focus on **AI, blockchain, IoT, smart contracts, and computer vision**. My projects span multiple technologies and I love building innovative solutions that bridge the gap between emerging tech and real-world applications.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=500&lines=Current+Focus;Exploring+AI+and+Web3;Building+IoT+Solutions;Learning+Smart+Contracts"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=500&lines=Current+Focus;Exploring+AI+and+Web3;Building+IoT+Solutions;Learning+Smart+Contracts;Working+on+Open+Source;Contributing+to+Dev+Community"/>
 </div>
 
 <!-- Animated Divider -->
@@ -98,7 +101,136 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
         <h3>HTML5</h3>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
+        <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+        <h3>CSS3</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+        <h3>Java</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=go" title="Go"/>
+        <h3>Go</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=vue" title="Vue.js"/>
+        <h3>Vue.js</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=angular" title="Angular"/>
+        <h3>Angular</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+        <h3>Firebase</h3>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=github-dark&hide_border=true&bg_color=00000000" />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 🎯 Projects
+
+### Featured Projects
+
+1. **AI-Powered Chatbot**
+   - Built using Python and TensorFlow
+   - Real-time natural language processing
+   - Deployed on AWS Lambda
+
+2. **Blockchain Voting System**
+   - Smart contracts on Ethereum
+   - Secure voting mechanism
+   - Frontend with React
+
+3. **IoT Home Automation**
+   - Raspberry Pi integration
+   - Smart home devices
+   - Real-time monitoring dashboard
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 📚 Learning & Development
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=500&lines=Currently+Learning;Machine+Learning+Algorithms;Blockchain+Development;Cloud+Architecture;Advanced+React+Patterns"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 🤝 Connect with Me
+
+Feel free to reach out to me on any of my social platforms! I'm always open to:
+- Collaborating on interesting projects
+- Discussing tech trends
+- Sharing knowledge
+- Giving feedback on your projects
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 🔗 Useful Links
+
+- [My Portfolio](https://notcaliper.me)
+- [My Blog](https://notcaliper.me/blog)
+- [GitHub Profile](https://github.com/notcaliper)
+- [LinkedIn Profile](https://linkedin.com/in/notakshay)
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 🌟 Support
+
+If you find my work useful, please consider supporting me:
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/notcaliper)
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+<!-- Footer -->
+<div align="center">
+  <p>Created with ❤️ by notcaliper</p>
+  <p>Updated: <span id="last-updated"></span></p>
+  <script>
+    document.getElementById('last-updated').textContent = new Date().toLocaleDateString();
+  </script>
+</div>
+
+<!-- Add this script at the bottom of your README -->
+<script>
+  // Add smooth scrolling for all anchor links
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+      document.querySelector(this.getAttribute('href')).scrollIntoView({
+        behavior: 'smooth'
+      });
+    });
+  });
+</script>        <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
         <h3>OpenCV</h3>
       </td>
     </tr>
@@ -248,5 +380,4 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 <p>All SVG files have been created and are part of this repository. Just use them as shown in the README.</p>
 </details>
-
 
