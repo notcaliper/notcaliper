@@ -1,91 +1,140 @@
-# <div align="center">👋 Hi, I'm <a href="https://github.com/notcaliper">notcaliper</a></div>
-
-<!-- Animated Waving Hand GIF in Intro -->
-<p align="center">
-  <img src="assets/wave-hand.gif" width="60" alt="Waving hand"/>
-</p>
-
-<!-- Gradient Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I'm+notcaliper!;AI+%7C+Blockchain+%7C+IoT+%7C+Smart+Contracts+%7C+Computer+Vision+Enthusiast;Open+Source+%F0%9F%92%BB+%7C+Full+Stack+Developer"/>
-</p>
-
-<!-- Animated Gradient Text -->
-<p align="center">
-  <img src="assets/animated-gradient-text.svg" width="300" alt="notcaliper"/>
-</p>
-
-<!-- Multi-Wave Animation (Main Divider) -->
-<img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/notcaliper"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://notcaliper.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+Digital+Realm;I'm+notcaliper;Developer+%7C+Innovator+%7C+Problem+Solver"/>
 </div>
 
-<img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>
-
----
-
-## 🧑‍💻 About Me
-
-> "Building the future, one line of code at a time."
-
-I'm a passionate developer and open-source contributor with a focus on **AI, blockchain, IoT, smart contracts, and computer vision**. My projects span JavaScript, TypeScript, Python, and HTML, and I love building innovative solutions that bridge the gap between emerging tech and real-world applications.
-
-- 🔭 Currently exploring: **AI, Web3, and IoT**
-- 🛠️ Tech Stack: Python, JavaScript, TypeScript, React, Node.js, Docker, AWS, and more
-- 🌱 Always learning: Machine Learning, Blockchain, Smart Contracts
-- 💡 Fun fact: I code while chatting with friends!
-
-<!-- Blob Divider for Variety -->
-<img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
-
-## 🤝 Let's Connect
-
+<!-- Animated Avatar -->
 <div align="center">
-  <a href="mailto:notcaliper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/notcaliper"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://notcaliper.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=github_dark&hide_border=true" />
 </div>
 
-<img src="assets/wave-top-animated.svg" width="100%" height="60px"/>
+<!-- Animated Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
----
+<!-- Gradient Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%7C+Blockchain+%7C+IoT+%7C+Smart+Contracts+%7C+Computer+Vision;Open+Source+%F0%9F%92%BB+%7C+Full+Stack+Developer"/>
+</div>
 
-## 🌈 Philosophy
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
 
-> "Code is not just about solving problems, it's about creating possibilities."
+<!-- Social Links with Animations -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://linkedin.com/in/notakshay">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://github.com/notcaliper">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://notcaliper.me">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://twitter.com/notcaliper">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" />
+  </a>
+</div>
 
-<img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/wave.svg" width="100%"/>
 
-## 🛠️ Tech Stack
+## 🌟 About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+the+future,+one+line+of+code+at+a+time."/>
+</div>
+
+I'm a passionate developer and open-source contributor with a focus on **AI, blockchain, IoT, smart contracts, and computer vision**. My projects span multiple technologies and I love building innovative solutions that bridge the gap between emerging tech and real-world applications.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=500&lines=Current+Focus;Exploring+AI+and+Web3;Building+IoT+Solutions;Learning+Smart+Contracts"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 🚀 Tech Stack
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" title="Python"/><br/>Python</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/><br/>JavaScript</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/><br/>TypeScript</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" title="React"/><br/>React</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/><br/>Node.js</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/><br/>Docker</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" title="AWS"/><br/>AWS</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" title="Git"/><br/>Git</td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+        <h3>Python</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+        <h3>JavaScript</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+        <h3>TypeScript</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" title="React"/>
+        <h3>React</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+        <h3>Node.js</h3>
+      </td>
     </tr>
     <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/><br/>HTML5</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/><br/>Arduino</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/><br/>OpenCV</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/><br/>Solidity</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/><br/>Linux</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/><br/>VSCode</td>
-      <td align="center" width="90"></td>
-      <td align="center" width="90"></td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+        <h3>Docker</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+        <h3>AWS</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+        <h3>Git</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+        <h3>HTML5</h3>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
+        <h3>OpenCV</h3>
+      </td>
     </tr>
   </table>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=github-dark&hide_border=true" />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/wave.svg" width="100%"/>
+
+## 🎯 Current Projects
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Innovative+Solutions;Exploring+New+Technologies;Creating+Impactful+Projects"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/levinechao/levinechao/main/assets/line.svg" width="100%"/>
+
+## 🌟 Fun Facts
+
+<div align="center">
+  <ul>
+    <li>💬 Ask me about anything tech-related!</li>
+    <li>⚡ Fun fact: I code while chatting with friends!</li>
+    <li>🌱 Currently learning: Advanced AI and Blockchain</li>
+    <li>⚡ Fun fact: I love building things that solve real problems</li>
+  </ul>
 </div>
 
 <img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
