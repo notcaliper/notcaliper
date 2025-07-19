@@ -30,14 +30,15 @@
 
 ## 🧑‍💻 About Me
 
-> "Building the future, one line of code at a time."
+> "Turning ideas into impact, through code."
 
-I'm a passionate developer and open-source contributor with a focus on **AI, blockchain, IoT, smart contracts, and computer vision**. My projects span JavaScript, TypeScript, Python, and HTML, and I love building innovative solutions that bridge the gap between emerging tech and real-world applications.
+Hi! I'm a passionate developer and open-source enthusiast who loves working at the intersection of **AI, blockchain, IoT, smart contracts, and computer vision**. I enjoy turning ideas into real-world solutions using **JavaScript, TypeScript, Python, and HTML.** Whether it's building smart systems or contributing to exciting projects, I’m always up for exploring new technologies and creating things that make a difference.
 
-- 🔭 Currently exploring: **AI, Web3, and IoT**
-- 🛠️ Tech Stack: Python, JavaScript, TypeScript, React, Node.js, Docker, AWS, and more
-- 🌱 Always learning: Machine Learning, Blockchain, Smart Contracts
-- 💡 Fun fact: I code while chatting with friends!
+- 🔭 Currently exploring: Creating smart solutions that combine AI, Web3, and IoT — from decentralized identity systems to self-learning drones
+- 🛠️ Tech stack: Skilled with Node.js, TypeScript, Python, React, PostgreSQL, Redis, Docker, AWS, IPFS, Hardhat, and Android
+- 💻 Also experienced in: Linux-based systems, cloud computing, and remote server access for scalable backend deployments
+- 🌱 Always learning: Deepening my knowledge in Machine Learning, Smart Contracts, and secure biometric + blockchain integration
+- 💡 Fun fact: I often brainstorm while coding — some of my best ideas spark during late-night chats and debug sessions!
 
 <!-- Blob Divider for Variety -->
 <img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
@@ -57,7 +58,7 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 ## 🌈 Philosophy
 
-> "Code is not just about solving problems, it's about creating possibilities."
+> "Coding is the art of turning ideas into impact."
 
 <img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
 
@@ -66,25 +67,35 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" title="Python"/><br/>Python</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/><br/>JavaScript</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/><br/>TypeScript</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" title="React"/><br/>React</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/><br/>Node.js</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/><br/>Docker</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" title="AWS"/><br/>AWS</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" title="Git"/><br/>Git</td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/><br/>HTML5</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/><br/>Arduino</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/><br/>OpenCV</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/><br/>Solidity</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/><br/>Linux</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/><br/>VSCode</td>
-      <td align="center" width="90"></td>
-      <td align="center" width="90"></td>
-    </tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" title="Python"/><br/>Python</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/><br/>JavaScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/><br/>TypeScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" title="React"/><br/>React</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/><br/>Node.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/><br/>Docker</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" title="AWS"/><br/>AWS</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" title="Git"/><br/>Git</td>
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/><br/>HTML5</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/><br/>Arduino</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/><br/>OpenCV</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/><br/>Solidity</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/><br/>Linux</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/><br/>VSCode</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><br/>PostgreSQL</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" title="Redis"/><br/>Redis</td>
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/><br/>Android</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=hardhat" title="Hardhat"/><br/>Hardhat</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ipfs" title="IPFS"/><br/>IPFS</td>
+  <td align="center" width="90"></td>
+  <td align="center" width="90"></td>
+  <td align="center" width="90"></td>
+  <td align="center" width="90"></td>
+  <td align="center" width="90"></td>
+</tr>
   </table>
 </div>
 
