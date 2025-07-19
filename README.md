@@ -179,25 +179,3 @@ I'm a passionate developer and open-source contributor with a focus on **AI, blo
 
 ---
 
-<!-- Instructions for enabling animations -->
-
-<details>
-<summary><b>✨ How to enable all animations</b></summary>
-
-<p>For the full animated experience, make sure you have the following files in your <code>assets</code> folder:</p>
-
-<ul>
-  <li><code>wave-hand.gif</code> - Animated waving hand</li>
-  <li><code>wave-top-animated.svg</code> - Top wave divider</li>
-  <li><code>wave-bottom-animated.svg</code> - Bottom wave divider</li>
-  <li><code>multi-wave-animated.svg</code> - Multi-layered wave animation</li>
-  <li><code>blob-divider-animated.svg</code> - Morphing blob divider</li>
-  <li><code>animated-gradient-text.svg</code> - Gradient animated text</li>
-  <li><code>animated-sparkle.svg</code> - Sparkle animation</li>
-  <li><code>sparkle.gif</code> - Sparkle GIF (optional alternative)</li>
-</ul>
-
-<p>All SVG files have been created and are part of this repository. Just use them as shown in the README.</p>
-</details>
-
-
