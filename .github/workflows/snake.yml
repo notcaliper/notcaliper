@@ -1,4 +1,4 @@
-name: Generate Snake
+name: generate snake
 
 on:
   schedule:
@@ -8,23 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: checkout repo
+        uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - name: generate snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          github_user_name: notcaliper
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan output
-          git rm -rf .
-          cp -r dist/* .
-          git add snake.svg
-          git commit -m "Update snake animation" || exit 0
-          git push origin output --force
+      - name: deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
