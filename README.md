@@ -179,11 +179,7 @@ Hi! I'm a passionate developer and open-source enthusiast who loves working at t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notcaliper/notcaliper/output/snake.svg">
 </div>
 
 <img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>

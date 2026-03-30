@@ -2,45 +2,22 @@ name: Generate Snake
 
 on:
   schedule:
-    # run automatically every 24 hours
     - cron: "0 0 * * *"
-  
-  # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - main
-    - master
 
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
+    permissions:
+      contents: write
     steps:
-      # checkout the repository first
       - uses: actions/checkout@v4
-        with:
-          node-version: 24
 
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Push directly via git bash to bypass third-party action git execution errors
+          outputs: dist/snake.svg
+
       - name: Push to output branch
         run: |
           git config --global user.name "github-actions[bot]"
@@ -48,6 +25,6 @@ jobs:
           git checkout --orphan output
           git rm -rf .
           cp -r dist/* .
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-          git commit -m "Update github contribution graph snake animation" || exit 0
+          git add snake.svg
+          git commit -m "Update snake animation" || exit 0
           git push origin output --force
