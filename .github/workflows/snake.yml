@@ -38,12 +38,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # push the content of <build_dir> to a branch
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
-          commit_message: "Update github contribution graph snake animation"
+      # Push directly via git bash to bypass third-party action git execution errors
+      - name: Push to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf .
+          cp -r dist/* .
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git commit -m "Update github contribution graph snake animation" || exit 0
+          git push origin output --force
