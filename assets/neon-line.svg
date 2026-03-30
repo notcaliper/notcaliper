@@ -1,0 +1,24 @@
+<svg width="100%" height="30" viewBox="0 0 1440 30" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d2ff" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00d2ff" stop-opacity="1">
+        <animate attributeName="offset" values="0;0.8" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="40%" stop-color="#7a2bff" stop-opacity="1">
+        <animate attributeName="offset" values="0.2;1" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" stop-color="#ff6b6b" stop-opacity="0">
+        <animate attributeName="offset" values="0.4;1.2" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <line x1="0" y1="15" x2="1440" y2="15" stroke="url(#neonGrad)" stroke-width="1.5" filter="url(#neonGlow)" stroke-linecap="round"/>
+</svg>

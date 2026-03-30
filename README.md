@@ -1,194 +1,138 @@
-# <div align="center">👋 Hi, I'm <a href="https://github.com/notcaliper">notcaliper</a></div>
-
-<!-- Animated Waving Hand GIF in Intro -->
-<p align="center">
-  <img src="assets/wave-hand.gif" width="60" alt="Waving hand"/>
-</p>
-
-<!-- Gradient Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F59E42,F43F5E,3B82F6&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I'm+notcaliper!;AI+%7C+Blockchain+%7C+IoT+%7C+Smart+Contracts+%7C+Computer+Vision+Enthusiast;Open+Source+%F0%9F%92%BB+%7C+Full+Stack+Developer"/>
-</p>
-
-<!-- Animated Gradient Text -->
-<p align="center">
-  <img src="assets/animated-gradient-text.svg" width="300" alt="notcaliper"/>
-</p>
-
-<!-- Multi-Wave Animation (Main Divider) -->
-<img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/notcaliper"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://notcaliper.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</div>
-
-<img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>
-
----
-
-## 🧑‍💻 About Me
-
-> "Turning ideas into impact, through code."
-
-Hi! I'm a passionate developer and open-source enthusiast who loves working at the intersection of **AI, blockchain, IoT, smart contracts, and computer vision**. I enjoy turning ideas into real-world solutions using **JavaScript, TypeScript, Python, and HTML.** Whether it's building smart systems or contributing to exciting projects, I’m always up for exploring new technologies and creating things that make a difference.
-
-- 🔭 Currently exploring: Creating smart solutions that combine AI, Web3, and IoT — from decentralized identity systems to self-learning drones
-- 🛠️ Tech stack: Skilled with Node.js, TypeScript, Python, React, PostgreSQL, Redis, Docker, AWS, IPFS, Hardhat, and Android
-- 💻 Also experienced in: Linux-based systems, cloud computing, and remote server access for scalable backend deployments
-- 🌱 Always learning: Deepening my knowledge in Machine Learning, Smart Contracts, and secure biometric + blockchain integration
-- 💡 Fun fact: I often brainstorm while coding — some of my best ideas spark during late-night chats and debug sessions!
-
-<!-- Blob Divider for Variety -->
-<img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="mailto:notcaliper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/notcaliper"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://notcaliper.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</div>
-
-<img src="assets/wave-top-animated.svg" width="100%" height="60px"/>
-
----
-
-## 🌈 Philosophy
-
-> "Coding is the art of turning ideas into impact."
-
-<img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" title="Python"/><br/>Python</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/><br/>JavaScript</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/><br/>TypeScript</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" title="React"/><br/>React</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/><br/>Node.js</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/><br/>Docker</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" title="AWS"/><br/>AWS</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" title="Git"/><br/>Git</td>
-</tr>
-<tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/><br/>HTML5</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/><br/>Arduino</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/><br/>OpenCV</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/><br/>Solidity</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/><br/>Linux</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/><br/>VSCode</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><br/>PostgreSQL</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" title="Redis"/><br/>Redis</td>
-</tr>
-<tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/><br/>Android</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=hardhat" title="Hardhat"/><br/>Hardhat</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ipfs" title="IPFS"/><br/>IPFS</td>
-  <td align="center" width="90"></td>
-  <td align="center" width="90"></td>
-  <td align="center" width="90"></td>
-  <td align="center" width="90"></td>
-  <td align="center" width="90"></td>
-</tr>
-  </table>
-</div>
-
-<img src="assets/blob-divider-animated.svg" width="100%" height="100px"/>
-
----
-
-## 🚩 <span style="color:#F59E42;">Pinned Projects</span>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Pinned%20Projects-F59E42?style=for-the-badge&logo=pinboard&logoColor=white"/>
-  <img src="assets/animated-sparkle.svg" width="40" alt="Sparkle animation"/>
-</div>
+<img src="assets/header-animated.svg" width="100%"/>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="320px">
-      <a href="https://github.com/notcaliper/HandGaze">
-        <img src="https://img.shields.io/badge/HandGaze-vision-blue?style=for-the-badge&logo=opencv&logoColor=white"/><br/>
-        <sub>AI-powered computer vision tool for real-time hand gesture recognition and digital communication.</sub>
-      </a>
-    </td>
-    <td align="center" width="320px">
-      <a href="https://github.com/notcaliper/ASEP-AIDS">
-        <img src="https://img.shields.io/badge/ASEP--AIDS-iot-green?style=for-the-badge&logo=arduino&logoColor=white"/><br/>
-        <sub>IoT-based smart irrigation system with ESP32 and real-time management for agriculture.</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="320px">
-      <a href="https://github.com/notcaliper/python-parking">
-        <img src="https://img.shields.io/badge/python--parking-cv-yellow?style=for-the-badge&logo=python&logoColor=white"/><br/>
-        <sub>Computer vision-based parking management system with automated license plate detection.</sub>
-      </a>
-    </td>
-    <td align="center" width="320px">
-      <a href="https://github.com/notcaliper/Form-Generate-script">
-        <img src="https://img.shields.io/badge/Form--Generate--script-python-blueviolet?style=for-the-badge&logo=python&logoColor=white"/><br/>
-        <sub>Open-source Python script for dynamic form generation. MIT licensed.</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="320px">
-      <a href="https://github.com/notcaliper/YoLED">
-        <img src="https://img.shields.io/badge/YoLED-experimental-lightgrey?style=for-the-badge&logo=raspberrypi&logoColor=white"/><br/>
-        <sub>Experimental project. (No public description)</sub>
-      </a>
-    </td>
-    <td align="center" width="320px">
-      <a href="https://github.com/notcaliper/notcaliper.github.io">
-        <img src="https://img.shields.io/badge/notcaliper.github.io-website-9cf?style=for-the-badge&logo=vercel&logoColor=white"/><br/>
-        <sub>Personal/project website (JavaScript).</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="320px">
-      <a href="https://github.com/notcaliper/notcaliper">
-        <img src="https://img.shields.io/badge/notcaliper-utils-informational?style=for-the-badge&logo=github&logoColor=white"/><br/>
-        <sub>Miscellaneous utilities and experiments.</sub>
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+# ⚡ notcaliper
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%A7%A0+AI+%2B+Blockchain+%2B+IoT+Builder;%F0%9F%94%AE+Smart+Contracts+%26+Computer+Vision;%F0%9F%92%BB+Open+Source+Contributor+%26+Creator;%E2%9A%A1+Turning+Ideas+Into+Impact" alt="Typing SVG" /></a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/notakshay)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notcaliper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=safari&logoColor=white)](https://notcaliper.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:notcaliper@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notcaliper)
 
 </div>
 
-<img src="assets/multi-wave-animated.svg" width="100%" height="120px"/>
+<img src="assets/neon-line.svg" width="100%"/>
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+```yaml
+name: notcaliper
+location: Earth 🌍
+current_focus: "AI × Web3 × IoT"
+motto: "Turning ideas into impact, through code."
+
+roles:
+  - Full Stack Developer
+  - AI & ML Engineer
+  - Blockchain Developer
+  - IoT Architect
+
+currently_building:
+  - 🧠 Decentralized identity systems with biometric + blockchain integration
+  - 🤖 Self-learning drones with computer vision
+  - 🌐 Smart contracts for real-world applications
+  - 🌱 IoT-powered agricultural automation
+
+fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
+```
+
+<img src="assets/neon-line.svg" width="100%"/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,solidity&theme=dark" />
+
+**Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,postgres,redis&theme=dark" />
+
+**Specialized**
+
+<img src="https://skillicons.dev/icons?i=arduino,opencv,hardhat,ipfs,androidstudio&theme=dark" />
+
+</div>
+
+<img src="assets/neon-line.svg" width="100%"/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=notcaliper&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+<img src="assets/neon-line.svg" width="100%"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/notcaliper/HandGaze">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=algolia&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/notcaliper/ASEP-AIDS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=algolia&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/notcaliper/python-parking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=algolia&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/notcaliper/Form-Generate-script">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=Form-Generate-script&theme=algolia&hide_border=true&border_radius=10" />
+</a>
+
+</div>
+
+<img src="assets/neon-line.svg" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-contribution-grid-snake.svg">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=algolia&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-<img src="assets/wave-bottom-animated.svg" width="100%" height="60px"/>
-
----
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=notcaliper&style=for-the-badge&color=blue" alt="Profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
 </div>
 
----
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=react-dark&hide_border=true&area=true&radius=10" alt="Activity Graph" width="95%"/>
+</div>
+
+<img src="assets/neon-line.svg" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-contribution-grid-snake.svg" width="95%">
+  </picture>
+</div>
+
+<img src="assets/footer-wave.svg" width="100%"/>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=notcaliper&style=for-the-badge&color=0891b2" alt="Profile views"/>
+
+  <br/><br/>
+
+  **⭐ Star my repos if you find them useful! ⭐**
+
+  <img src="assets/animated-gradient-text.svg" width="200" alt="notcaliper"/>
+
+</div>

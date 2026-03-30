@@ -1,0 +1,60 @@
+<svg width="100%" height="200" viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="headerGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29">
+        <animate attributeName="stop-color" values="#0f0c29;#1a1a2e;#0f0c29" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#302b63">
+        <animate attributeName="stop-color" values="#302b63;#16213e;#302b63" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#24243e">
+        <animate attributeName="stop-color" values="#24243e;#0f3460;#24243e" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="glowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d2ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d2ff" stop-opacity="1">
+        <animate attributeName="stop-color" values="#00d2ff;#7a2bff;#ff6b6b;#00d2ff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7a2bff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="200" fill="url(#headerGrad1)"/>
+
+  <!-- Floating particles -->
+  <circle cx="100" cy="80" r="2" fill="#00d2ff" opacity="0.6">
+    <animate attributeName="cy" values="80;40;80" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="120" r="1.5" fill="#7a2bff" opacity="0.5">
+    <animate attributeName="cy" values="120;60;120" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="60" r="2.5" fill="#ff6b6b" opacity="0.4">
+    <animate attributeName="cy" values="60;100;60" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="140" r="1.8" fill="#00d2ff" opacity="0.5">
+    <animate attributeName="cy" values="140;80;140" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1200" cy="90" r="2" fill="#7a2bff" opacity="0.6">
+    <animate attributeName="cy" values="90;50;90" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1350" cy="50" r="1.5" fill="#ff6b6b" opacity="0.5">
+    <animate attributeName="cy" values="50;110;50" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Animated glow line -->
+  <line x1="0" y1="195" x2="1440" y2="195" stroke="url(#glowLine)" stroke-width="2" filter="url(#glow)">
+    <animate attributeName="y1" values="195;193;195" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="195;193;195" dur="2s" repeatCount="indefinite"/>
+  </line>
+</svg>

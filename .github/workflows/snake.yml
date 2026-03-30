@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: checkout repo
@@ -19,6 +21,7 @@ jobs:
           github_user_name: notcaliper
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
