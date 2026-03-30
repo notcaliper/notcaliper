@@ -67,6 +67,8 @@ fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=notcaliper&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <br/>
+  <sub><i>If trophies don't load, <a href="https://github.com/ryo-ma/github-profile-trophy">refresh</a> — the service can be slow sometimes.</i></sub>
 </div>
 
 <img src="assets/neon-line.svg" width="100%"/>
@@ -74,20 +76,50 @@ fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/notcaliper/HandGaze">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=algolia&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/notcaliper/ASEP-AIDS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=algolia&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/notcaliper/python-parking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=algolia&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/notcaliper/Form-Generate-script">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=Form-Generate-script&theme=algolia&hide_border=true&border_radius=10" />
-</a>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/notcaliper/HandGaze">
+        <img src="https://img.shields.io/badge/🔮_HandGaze-Computer_Vision-00d2ff?style=for-the-badge" alt="HandGaze"/><br/>
+        <sub><b>AI-powered hand gesture recognition & digital communication</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/notcaliper/ASEP-AIDS">
+        <img src="https://img.shields.io/badge/🌱_ASEP--AIDS-IoT_Agriculture-00c853?style=for-the-badge" alt="ASEP-AIDS"/><br/>
+        <sub><b>Smart irrigation system with ESP32 & real-time management</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/notcaliper/python-parking">
+        <img src="https://img.shields.io/badge/🅿️_Python_Parking-CV_System-ffab00?style=for-the-badge" alt="python-parking"/><br/>
+        <sub><b>Automated license plate detection & parking management</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/notcaliper/Form-Generate-script">
+        <img src="https://img.shields.io/badge/📝_Form_Generator-Python_Tool-7c4dff?style=for-the-badge" alt="Form-Generate-script"/><br/>
+        <sub><b>Dynamic form generation script — open source & MIT licensed</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/notcaliper/YoLED">
+        <img src="https://img.shields.io/badge/💡_YoLED-Experimental-9e9e9e?style=for-the-badge" alt="YoLED"/><br/>
+        <sub><b>Experimental IoT/Raspberry Pi project</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/notcaliper/notcaliper.github.io">
+        <img src="https://img.shields.io/badge/🌐_Portfolio-Website-ff6b6b?style=for-the-badge" alt="Portfolio"/><br/>
+        <sub><b>Personal portfolio & project showcase website</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <img src="assets/neon-line.svg" width="100%"/>
