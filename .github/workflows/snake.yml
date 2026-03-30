@@ -25,11 +25,13 @@ jobs:
 
     steps:
       # checkout the repository first
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          node-version: 24
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v4
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
