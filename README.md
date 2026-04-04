@@ -103,7 +103,7 @@ fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=react-dark&hide_border=true&area=true&radius=10" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=algolia&hide_border=true&area=true&radius=10" alt="Activity Graph" width="95%"/>
 </div>
 
 <img src="assets/neon-line.svg" width="100%"/>
