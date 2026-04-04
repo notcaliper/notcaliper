@@ -82,22 +82,12 @@ Currently building in public. Based on Earth 🌍
   <a href="https://github.com/notcaliper/python-parking">
     <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
-  <a href="https://github.com/notcaliper/Form-Generate-script">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=Form-Generate-script&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-  <br/><br/>
   <a href="https://github.com/notcaliper/TrueID">
     <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-  <a href="https://github.com/notcaliper/YoLED">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=YoLED&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
   <br/><br/>
   <a href="https://github.com/Desapphire/TrueView">
     <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=Desapphire&repo=TrueView&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-  <a href="https://github.com/notcaliper/notcaliper.github.io">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=notcaliper.github.io&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
 </div>
 
