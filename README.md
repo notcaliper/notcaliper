@@ -66,50 +66,26 @@ fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
 ## 🚀 Featured Projects
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/notcaliper/HandGaze">
-        <img src="https://img.shields.io/badge/🔮_HandGaze-Computer_Vision-00d2ff?style=for-the-badge" alt="HandGaze"/><br/>
-        <sub><b>AI-powered hand gesture recognition & digital communication</b></sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/notcaliper/ASEP-AIDS">
-        <img src="https://img.shields.io/badge/🌱_ASEP--AIDS-IoT_Agriculture-00c853?style=for-the-badge" alt="ASEP-AIDS"/><br/>
-        <sub><b>Smart irrigation system with ESP32 & real-time management</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/notcaliper/python-parking">
-        <img src="https://img.shields.io/badge/🅿️_Python_Parking-CV_System-ffab00?style=for-the-badge" alt="python-parking"/><br/>
-        <sub><b>Automated license plate detection & parking management</b></sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/notcaliper/Form-Generate-script">
-        <img src="https://img.shields.io/badge/📝_Form_Generator-Python_Tool-7c4dff?style=for-the-badge" alt="Form-Generate-script"/><br/>
-        <sub><b>Dynamic form generation script — open source & MIT licensed</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/notcaliper/YoLED">
-        <img src="https://img.shields.io/badge/💡_YoLED-Experimental-9e9e9e?style=for-the-badge" alt="YoLED"/><br/>
-        <sub><b>Experimental IoT/Raspberry Pi project</b></sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/notcaliper/notcaliper.github.io">
-        <img src="https://img.shields.io/badge/🌐_Portfolio-Website-ff6b6b?style=for-the-badge" alt="Portfolio"/><br/>
-        <sub><b>Personal portfolio & project showcase website</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/notcaliper/HandGaze">
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="HandGaze" width="48%"/>
+  </a>
+  <a href="https://github.com/notcaliper/ASEP-AIDS">
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="ASEP-AIDS" width="48%"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/notcaliper/python-parking">
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="python-parking" width="48%"/>
+  </a>
+  <a href="https://github.com/notcaliper/Form-Generate-script">
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=Form-Generate-script&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="Form-Generate-script" width="48%"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/notcaliper/YoLED">
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=YoLED&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="YoLED" width="48%"/>
+  </a>
+  <a href="https://github.com/notcaliper/notcaliper.github.io">
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=notcaliper.github.io&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="Portfolio" width="48%"/>
+  </a>
 </div>
 
 <img src="assets/neon-line.svg" width="100%"/>
