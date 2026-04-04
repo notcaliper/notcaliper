@@ -28,13 +28,19 @@ Currently building in public. Based on Earth 🌍
 ## Stack
 
 **Languages**
-`Python` `JavaScript` `TypeScript` `Solidity` `HTML`
+`Python` `JavaScript` `TypeScript` `Solidity` `HTML` `CSS`
 
-**Frameworks & Tools**
-`React` `Node.js` `Docker` `AWS` `PostgreSQL` `Redis` `Git` `Linux`
+**Frameworks & Libraries**
+`React` `Node.js` `FastAPI` `OpenCV` `MediaPipe` `YOLOv8`
 
-**Specialized**
-`Arduino` `OpenCV` `Hardhat` `IPFS` `Android Studio`
+**Blockchain**
+`Solidity` `Hardhat` `Smart Contracts` `IPFS` `Ethereum`
+
+**IoT & Hardware**
+`ESP32` `Arduino` `Raspberry Pi`
+
+**Tools & Infrastructure**
+`Docker` `AWS` `Git` `Linux` `SQLite` `PostgreSQL`
 
 ---
 
