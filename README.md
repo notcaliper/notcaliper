@@ -66,7 +66,7 @@ fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notcaliper&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-five-beige.vercel.app/?username=notcaliper&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
   <br/>
   <sub><i>If trophies don't load, <a href="https://github.com/ryo-ma/github-profile-trophy">refresh</a> — the service can be slow sometimes.</i></sub>
 </div>
