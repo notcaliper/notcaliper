@@ -93,14 +93,10 @@ fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api?username=notcaliper&show_icons=true&theme=algolia&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api?username=notcaliper&show_icons=true&theme=algolia&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%"/>
+  <br/><br/>
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="48%"/>
 </div>
 
 <br/>
