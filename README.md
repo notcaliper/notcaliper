@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/notakshay)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notcaliper)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=safari&logoColor=white)](https://notcaliper.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:notcaliper@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaymanbhaw27@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notcaliper)
 
 </div>
@@ -127,14 +127,14 @@ fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=algolia&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api?username=notcaliper&show_icons=true&theme=algolia&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
