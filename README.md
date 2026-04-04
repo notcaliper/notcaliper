@@ -89,6 +89,9 @@ Currently building in public. Based on Earth 🌍
   <a href="https://github.com/Desapphire/TrueView">
     <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=Desapphire&repo=TrueView&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
+  <a href="https://github.com/notcaliper/lost-found">
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=lost-found&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
+  </a>
 </div>
 
 ---
