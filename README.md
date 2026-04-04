@@ -1,114 +1,85 @@
-<img src="assets/header-animated.svg" width="100%"/>
-
 <div align="center">
 
-# ⚡ notcaliper
+# notcaliper
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%A7%A0+AI+%2B+Blockchain+%2B+IoT+Builder;%F0%9F%94%AE+Smart+Contracts+%26+Computer+Vision;%F0%9F%92%BB+Open+Source+Contributor+%26+Creator;%E2%9A%A1+Turning+Ideas+Into+Impact" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+%E2%80%A2+AI+%2B+Blockchain+%2B+IoT;Building+things+that+matter%2C+one+commit+at+a+time." alt="Typing SVG" /></a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/notakshay)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notcaliper)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=safari&logoColor=white)](https://notcaliper.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaymanbhaw27@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notcaliper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-notakshay-8b949e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/notakshay)
+[![GitHub](https://img.shields.io/badge/GitHub-notcaliper-8b949e?style=flat-square&logo=github&logoColor=white)](https://github.com/notcaliper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-notcaliper.dev-8b949e?style=flat-square&logo=safari&logoColor=white)](https://notcaliper.dev)
+[![Email](https://img.shields.io/badge/Email-akshaymanbhaw27-8b949e?style=flat-square&logo=gmail&logoColor=white)](mailto:akshaymanbhaw27@gmail.com)
 
 </div>
 
-<img src="assets/neon-line.svg" width="100%"/>
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## About
 
-```yaml
-name: notcaliper
-location: Earth 🌍
-current_focus: "AI × Web3 × IoT"
-motto: "Turning ideas into impact, through code."
+Engineer at the intersection of **AI**, **Blockchain**, and **IoT**. I build systems that solve real problems — from decentralized identity with biometric integration, to self-learning drones with computer vision, to smart contracts for the physical world.
 
-roles:
-  - Full Stack Developer
-  - AI & ML Engineer
-  - Blockchain Developer
-  - IoT Architect
+> *"Turning ideas into impact, through code."*
 
-currently_building:
-  - 🧠 Decentralized identity systems with biometric + blockchain integration
-  - 🤖 Self-learning drones with computer vision
-  - 🌐 Smart contracts for real-world applications
-  - 🌱 IoT-powered agricultural automation
+Currently building in public. Based on Earth 🌍
 
-fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
-```
+---
 
-<img src="assets/neon-line.svg" width="100%"/>
+## Stack
 
-## 🛠️ Tech Arsenal
+**Languages**
+`Python` `JavaScript` `TypeScript` `Solidity` `HTML`
 
-<div align="center">
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,solidity&theme=dark" />
-
-**Tools & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,postgres,redis&theme=dark" />
+**Frameworks & Tools**
+`React` `Node.js` `Docker` `AWS` `PostgreSQL` `Redis` `Git` `Linux`
 
 **Specialized**
+`Arduino` `OpenCV` `Hardhat` `IPFS` `Android Studio`
 
-<img src="https://skillicons.dev/icons?i=arduino,opencv,hardhat,ipfs,androidstudio&theme=dark" />
+---
 
-</div>
-
-<img src="assets/neon-line.svg" width="100%"/>
-
-## 🚀 Featured Projects
+## Projects
 
 <div align="center">
   <a href="https://github.com/notcaliper/HandGaze">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="HandGaze" width="48%"/>
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
   <a href="https://github.com/notcaliper/ASEP-AIDS">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="ASEP-AIDS" width="48%"/>
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
   <br/><br/>
   <a href="https://github.com/notcaliper/python-parking">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="python-parking" width="48%"/>
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
   <a href="https://github.com/notcaliper/Form-Generate-script">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=Form-Generate-script&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="Form-Generate-script" width="48%"/>
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=Form-Generate-script&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
   <br/><br/>
   <a href="https://github.com/notcaliper/YoLED">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=YoLED&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="YoLED" width="48%"/>
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=YoLED&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
   <a href="https://github.com/notcaliper/notcaliper.github.io">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=notcaliper.github.io&theme=algolia&show_icons=true&hide_border=true&border_radius=10" alt="Portfolio" width="48%"/>
+    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=notcaliper.github.io&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
   </a>
 </div>
 
-<img src="assets/neon-line.svg" width="100%"/>
+---
 
-## 📊 GitHub Analytics
+## Analytics
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api?username=notcaliper&show_icons=true&theme=algolia&hide_border=true&count_private=true&border_radius=10&hide=issues" alt="GitHub Stats" width="48%"/>
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api?username=notcaliper&show_icons=true&theme=github_dark&hide_border=true&hide=issues&bg_color=00000000&icon_color=8b949e&title_color=e6edf3&text_color=8b949e" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=transparent&hide_border=true&stroke=8b949e&ring=8b949e&fire=e6edf3&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" width="48%" alt="GitHub Streak"/>
   <br/><br/>
-  <img align="top" src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" width="48%"/>
-  <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notcaliper&theme=algolia&utcOffset=5.5" alt="Productive Time" width="48%"/>
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6" width="48%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notcaliper&theme=github_dark&utcOffset=5.5" width="48%" alt="Productive Time"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=algolia&hide_border=true&area=true&radius=10" alt="Activity Graph" width="95%"/>
-</div>
-
-<img src="assets/neon-line.svg" width="100%"/>
-
-## 🐍 Contribution Snake
+## Contribution
 
 <div align="center">
   <picture>
@@ -118,16 +89,10 @@ fun_fact: "My best ideas spark during late-night debug sessions ☕🌙"
   </picture>
 </div>
 
-<img src="assets/footer-wave.svg" width="100%"/>
+---
 
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=notcaliper&style=for-the-badge&color=0891b2" alt="Profile views"/>
-
+  <img src="https://komarev.com/ghpvc/?username=notcaliper&style=flat-square&color=8b949e&label=profile+views" alt="Profile views"/>
   <br/><br/>
-
-  **⭐ Star my repos if you find them useful! ⭐**
-
-  <img src="assets/animated-gradient-text.svg" width="200" alt="notcaliper"/>
-
+  <sub>If you find my work useful, a ⭐ on the repo goes a long way.</sub>
 </div>
