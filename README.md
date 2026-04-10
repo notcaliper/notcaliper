@@ -1,6 +1,6 @@
 <div align="center">
 
-# notcaliper
+# NOTCALIPER
 
 <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+%E2%80%A2+AI+%2B+Blockchain+%2B+IoT;Building+things+that+matter%2C+one+commit+at+a+time." alt="Typing SVG" /></a>
 
