@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" stroke-opacity="0.9"/>
+      <stop offset="100%" stop-color="#1e293b" stroke-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="footer-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="quote-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .quote { font-family: 'Inter', system-ui, sans-serif; font-style: italic; font-size: 15px; fill: url(#quote-grad); }
+    .subquote { font-family: 'Fira Code', monospace; font-size: 12px; fill: #38bdf8; }
+    .heart { fill: #f43f5e; }
+  </style>
+
+  <g transform="translate(25, 10)">
+    <rect width="800" height="100" rx="16" fill="url(#footer-bg)" stroke="url(#footer-border)" stroke-width="1.5"/>
+    
+    <!-- Quote Text -->
+    <text x="400" y="42" class="quote" text-anchor="middle">"Turning complex ideas into seamless code &amp; hardware systems."</text>
+    <text x="400" y="68" class="subquote" text-anchor="middle">Building in public • Open to innovative engineering collaborations</text>
+
+    <!-- Bottom Line Deco -->
+    <circle cx="400" cy="85" r="3" fill="#38bdf8"/>
+    <circle cx="380" cy="85" r="2" fill="#818cf8"/>
+    <circle cx="420" cy="85" r="2" fill="#818cf8"/>
+  </g>
+</svg>
