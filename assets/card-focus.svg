@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="100%">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#1e1b4b" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="focus-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-title { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 15px; fill: #f8fafc; }
+    .card-tag { font-family: 'Fira Code', monospace; font-weight: 600; font-size: 10px; fill: #38bdf8; letter-spacing: 1px; }
+    .card-desc { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 400; font-size: 12px; fill: #94a3b8; }
+  </style>
+
+  <g transform="translate(15, 10)">
+    <!-- Column 1: AI Drones & Vision -->
+    <g transform="translate(0, 0)">
+      <rect width="256" height="150" rx="14" fill="url(#card-bg)" stroke="url(#focus-border)" stroke-width="1.5"/>
+      <rect x="16" y="16" width="36" height="36" rx="10" fill="#0284c7" fill-opacity="0.25" stroke="#38bdf8" stroke-width="1"/>
+      <text x="34" y="39" font-size="18" text-anchor="middle">🚁</text>
+      <text x="62" y="32" class="card-title">AI Drones &amp; Vision</text>
+      <text x="62" y="47" class="card-tag">COMPUTER VISION</text>
+      <text x="16" y="78" class="card-desc">
+        <tspan x="16" dy="0">Autonomous drone navigation</tspan>
+        <tspan x="16" dy="18">systems with edge vision &amp;</tspan>
+        <tspan x="16" dy="18">real-time spatial mapping.</tspan>
+      </text>
+    </g>
+
+    <!-- Column 2: Rust & ZK Proofs -->
+    <g transform="translate(282, 0)">
+      <rect width="256" height="150" rx="14" fill="url(#card-bg)" stroke="url(#focus-border)" stroke-width="1.5"/>
+      <rect x="16" y="16" width="36" height="36" rx="10" fill="#6366f1" fill-opacity="0.25" stroke="#818cf8" stroke-width="1"/>
+      <text x="34" y="39" font-size="18" text-anchor="middle">🛡️</text>
+      <text x="62" y="32" class="card-title">Rust &amp; ZK Proofs</text>
+      <text x="62" y="47" class="card-tag">BLOCKCHAIN &amp; ZKP</text>
+      <text x="16" y="78" class="card-desc">
+        <tspan x="16" dy="0">Decentralized identity &amp;</tspan>
+        <tspan x="16" dy="18">zero-knowledge proof</tspan>
+        <tspan x="16" dy="18">cryptographic protocols.</tspan>
+      </text>
+    </g>
+
+    <!-- Column 3: Smart Hardware -->
+    <g transform="translate(564, 0)">
+      <rect width="256" height="150" rx="14" fill="url(#card-bg)" stroke="url(#focus-border)" stroke-width="1.5"/>
+      <rect x="16" y="16" width="36" height="36" rx="10" fill="#a855f7" fill-opacity="0.25" stroke="#c084fc" stroke-width="1"/>
+      <text x="34" y="39" font-size="18" text-anchor="middle">⚡</text>
+      <text x="62" y="32" class="card-title">Smart Hardware</text>
+      <text x="62" y="47" class="card-tag">EMBEDDED IOT</text>
+      <text x="16" y="78" class="card-desc">
+        <tspan x="16" dy="0">ESP32 microcontrollers,</tspan>
+        <tspan x="16" dy="18">biometric IoT sensors &amp;</tspan>
+        <tspan x="16" dy="18">physical smart contracts.</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

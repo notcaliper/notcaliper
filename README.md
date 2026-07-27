@@ -1,10 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B949E,50:30363D,100:000000&height=200&section=header&text=notcaliper&fontSize=70&fontColor=e6edf3&fontAlignY=35&desc=Engineer%20%7C%20Builder%20%7C%20Dreamer&descAlignY=55&descSize=20" alt="Header" />
+  <!-- Main Glassmorphism Header Banner -->
+  <img src="./assets/header-glassmorphism.svg" alt="Akshay Header Banner" width="100%" />
+
+  <br/><br/>
+
+  <!-- Dynamic Typing SVG Banner -->
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Engineer+%E2%80%A2+Builder+%E2%80%A2+System+Architect;Building+Autonomous+AI+Drone+Systems;Developing+ZK-Proofs+%26+Decentralized+Identity;Integrating+Edge+Computer+Vision+with+ESP32+Hardware" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Social & Contact Badges -->
+  <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/notcaliper"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://notcaliper.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=00f2fe" alt="Portfolio"/></a>
+  <a href="mailto:akshaymanbhaw27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 <br/>
 
-<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&random=true&width=650&lines=Full+Stack+%E2%80%A2+AI+%2B+Blockchain+%2B+IoT;Building+systems+that+solve+real+problems;Turning+ideas+into+impact+through+code;Currently+building+in+public+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Glass Divider -->
+<img src="./assets/glass-divider.svg" width="100%" />
+
+<br/>
+
+## 👨‍💻 About Me
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  ENGINEER @ INTERSECTION OF AI • BLOCKCHAIN • IOT                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+> *"Turning complex ideas into seamless code & hardware systems."*
+
+I am a full-stack engineer and hardware builder specializing in **Computer Vision**, **Zero-Knowledge Web3 Architectures**, and **Embedded IoT Systems**. My work focuses on building autonomous systems that bridge physical hardware with intelligent software—ranging from gesture-controlled drones to biometric decentralized identities.
+
+- 🌍 **Based in:** Earth
+- 🔭 **Current Focus:** AI-driven drone navigation & ZK cryptography
+- ⚡ **Fun Fact:** I debug with `console.log` and `printf` with zero regrets.
+
+<br/>
+
+<!-- Glass Divider -->
+<img src="./assets/glass-divider.svg" width="100%" />
+
+<br/>
+
+## ⚡ Current Focus & Active Radar
+
+<img src="./assets/card-focus.svg" width="100%" alt="Current Focus Radar" />
+
+<br/>
+
+<!-- Glass Divider -->
+<img src="./assets/glass-divider.svg" width="100%" />
+
+<br/>
+
+## 🛠️ Technical Stack & Arsenal
+
+<div align="center">
+
+### **Languages & Core**
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /> Python</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /> C++</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" /> Rust</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /> TypeScript</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> JavaScript</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" /> Solidity</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" /> Embedded C</code>
+
+<br/><br/>
+
+### **AI, ML & Computer Vision**
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" /> OpenCV</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /> TensorFlow</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" /> PyTorch</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" /> FastAPI</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" /> NumPy</code>
+
+<br/><br/>
+
+### **Web Frameworks & Databases**
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /> React</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" /> Next.js</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" /> Node.js</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" /> Tailwind</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /> PostgreSQL</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" /> MongoDB</code>
+
+<br/><br/>
+
+### **Blockchain & Web3**
+<code><img height="36" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" /> Ethereum</code> &nbsp;
+<code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" /> IPFS</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" alt="Hardhat" /> Hardhat</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethers/ethers-original.svg" alt="Ethers.js" /> Ethers.js</code>
+
+<br/><br/>
+
+### **IoT & Systems**
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" /> Arduino</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" /> Raspberry Pi</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /> Docker</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /> Git</code> &nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /> Linux</code>
 
 <br/>
 
@@ -23,148 +127,108 @@
   <img src="https://github-profile-trophy.vercel.app/?username=notcaliper&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- Glass Divider -->
+<img src="./assets/glass-divider.svg" width="100%" />
 
-Engineer at the intersection of **AI**, **Blockchain**, and **IoT**. I build systems that solve real problems — from decentralized identity with biometric integration, to self-learning drones with computer vision, to smart contracts for the physical world.
+<br/>
 
-> *"Turning ideas into impact, through code."*
-
-Currently building in public. Based on Earth 🌍
-
----
-
-## ⚡ Current Focus
+## 📦 Featured Engineering Projects
 
 <div align="center">
 
-```
-🔭 Working on:    AI-powered drone navigation systems
-🌱 Learning:      Rust & Zero-Knowledge Proofs
-👯 Collaborating: Open source IoT projects
-� Ask me about:  Computer Vision, Smart Contracts, ESP32
-⚡ Fun fact:      I debug with console.log and I'm not ashamed
-```
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🚁 **[HandGaze](https://github.com/notcaliper/HandGaze)** | AI-powered gesture & eye-tracking controller for autonomous drone flight navigation. | `Python` `OpenCV` `MediaPipe` `IoT` |
+| 🛡️ **[TrueID](https://github.com/notcaliper/TrueID)** | Decentralized identity platform integrating biometric verification with Ethereum smart contracts. | `Solidity` `React` `IPFS` `Ethers.js` |
+| 🌐 **[ASEP-AIDS](https://github.com/notcaliper/ASEP-AIDS)** | AI Security & Intrusion Detection system leveraging real-time edge computer vision streams. | `Python` `TensorFlow` `FastAPI` |
+| 🅿️ **[python-parking](https://github.com/notcaliper/python-parking)** | Automated smart parking management system powered by license plate detection & occupancy tracking. | `Python` `OpenCV` `SQLite` |
+| 🔍 **[TrueView](https://github.com/Desapphire/TrueView)** | Decentralized deepfake detection and digital content provenance verification platform. | `Python` `Deep Learning` `Web3` |
+| 📦 **[lost-found](https://github.com/notcaliper/lost-found)** | Campus asset recovery platform with image matching & automated notification pipelines. | `TypeScript` `React` `Node.js` |
+
+<br/>
+
+### 🌟 Project Repositories Spotlight
+
+<a href="https://github.com/notcaliper/HandGaze">
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+</a>
+<a href="https://github.com/notcaliper/TrueID">
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/notcaliper/ASEP-AIDS">
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+</a>
+<a href="https://github.com/notcaliper/python-parking">
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## �️ Tech Stack
+<!-- Glass Divider -->
+<img src="./assets/glass-divider.svg" width="100%" />
 
-<div align="center">
+<br/>
 
-**Languages & Core**
-
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /></code>
-
-**Frameworks & Libraries**
-
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code>
-
-**Blockchain & Web3**
-
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" /></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" /></code>
-
-**IoT & Hardware**
-
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Embedded C" /></code>
-
-**Tools & Cloud**
-
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></code>
-
-</div>
-
----
-
-## 📦 Featured Projects
+## 📊 Analytics & Developer Insights
 
 <div align="center">
-  <a href="https://github.com/notcaliper/HandGaze">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-  <a href="https://github.com/notcaliper/ASEP-AIDS">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/notcaliper/python-parking">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-  <a href="https://github.com/notcaliper/TrueID">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Desapphire/TrueView">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=Desapphire&repo=TrueView&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-  <a href="https://github.com/notcaliper/lost-found">
-    <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=lost-found&theme=github_dark&hide_border=true&bg_color=00000000" width="48%"/>
-  </a>
-</div>
 
----
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api?username=notcaliper&show_icons=true&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide=issues" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=dark&background=0F172A&border=1E293B&stroke=38BDF8&ring=818CF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="48%" alt="GitHub Streak"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api?username=notcaliper&show_icons=true&theme=github_dark&hide_border=true&hide=issues&bg_color=00000000&icon_color=8b949e&title_color=e6edf3&text_color=8b949e" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=transparent&hide_border=true&stroke=8b949e&ring=8b949e&fire=e6edf3&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" width="48%" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6" width="48%" alt="Top Languages"/>
+
+  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&langs_count=6" width="48%" alt="Top Languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notcaliper&theme=github_dark&utcOffset=5.5" width="48%" alt="Productive Time"/>
+
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=react-dark&bg_color=0f172a&color=38bdf8&line=818cf8&point=c084fc&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Graph
+<!-- Glass Divider -->
+<img src="./assets/glass-divider.svg" width="100%" />
+
+<br/>
+
+## 🐍 Contribution Snake Grid
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-snake.svg" width="95%">
+    <img alt="github contribution snake grid animation" src="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-snake-dark.svg" width="95%">
   </picture>
 </div>
 
----
+<br/>
+
+<!-- Glass Divider -->
+<img src="./assets/glass-divider.svg" width="100%" />
+
+<br/>
+
+<!-- Footer Glassmorphism Card -->
+<img src="./assets/footer-glassmorphism.svg" width="100%" />
+
+<br/>
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=notcaliper&style=for-the-badge&color=8b949e&label=VISITORS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=notcaliper&style=for-the-badge&color=0f172a&label=PROFILE+VISITS" alt="Profile views"/>
 
   <br/><br/>
 
-  <samp>
-    <b>If you find my work useful, a ⭐ on the repo goes a long way 🚀</b><br/>
-    <sub>Building in public | Open to collaborations | Let's connect!</sub>
-  </samp>
-
-  <br/><br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/%E2%9C%85%20Verified%20Code%20Addict-8b949e?style=flat-square" alt="Verified"/>
-    <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Open%20Source%20Enthusiast-8b949e?style=flat-square" alt="Open Source"/>
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Always%20Learning-8b949e?style=flat-square" alt="Learning"/>
-  </p>
+  <sub>Designed &amp; Architected with 💙 by <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a></sub>
 
 </div>
