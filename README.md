@@ -110,6 +110,21 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 <code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /> Git</code> &nbsp;
 <code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /> Linux</code>
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-notakshay-8b949e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/notakshay)
+[![GitHub](https://img.shields.io/badge/GitHub-notcaliper-8b949e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notcaliper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-notcaliper.dev-8b949e?style=for-the-badge&logo=safari&logoColor=white)](https://notcaliper.dev)
+[![Email](https://img.shields.io/badge/Email-akshaymanbhaw27-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaymanbhaw27@gmail.com)
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=notcaliper&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
