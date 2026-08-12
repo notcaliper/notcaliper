@@ -99,7 +99,7 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 <code><img height="36" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" /> Ethereum</code> &nbsp;
 <code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" /> IPFS</code> &nbsp;
 <code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" alt="Hardhat" /> Hardhat</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethers/ethers-original.svg" alt="Ethers.js" /> Ethers.js</code>
+<code><img height="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ethers.svg" alt="Ethers.js" /> Ethers.js</code>
 
 <br/><br/>
 
@@ -124,7 +124,7 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notcaliper&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://trophy.benkou.dev/?username=notcaliper&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -152,19 +152,19 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 ### 🌟 Project Repositories Spotlight
 
 <a href="https://github.com/notcaliper/HandGaze">
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
 </a>
 <a href="https://github.com/notcaliper/TrueID">
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/notcaliper/ASEP-AIDS">
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
 </a>
 <a href="https://github.com/notcaliper/python-parking">
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
 </a>
 
 </div>
@@ -180,12 +180,12 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 
 <div align="center">
 
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api?username=notcaliper&show_icons=true&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide=issues" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=notcaliper&show_icons=true&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide=issues" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=dark&background=0F172A&border=1E293B&stroke=38BDF8&ring=818CF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="48%" alt="GitHub Streak"/>
 
   <br/><br/>
 
-  <img src="https://github-readme-stats-ivory-seven-k8uoodinew.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&langs_count=6" width="48%" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&langs_count=6" width="48%" alt="Top Languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notcaliper&theme=github_dark&utcOffset=5.5" width="48%" alt="Productive Time"/>
 
   <br/><br/>
