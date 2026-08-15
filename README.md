@@ -238,6 +238,6 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 
   <br/><br/>
 
-  <sub>Designed &amp; Architected with 💙 by <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a></sub>
+  <sub>Designed &amp; Engineered with precision by <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a></sub>
 
 </div>
