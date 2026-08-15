@@ -142,8 +142,8 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 | :--- | :--- | :--- |
 | 🚁 **[HandGaze](https://github.com/notcaliper/HandGaze)** | AI-powered gesture & eye-tracking controller for autonomous drone flight navigation. | `Python` `OpenCV` `MediaPipe` `IoT` |
 | 🛡️ **[TrueID](https://github.com/notcaliper/TrueID)** | Decentralized identity platform integrating biometric verification with Ethereum smart contracts. | `Solidity` `React` `IPFS` `Ethers.js` |
-| 🌐 **[ASEP-AIDS](https://github.com/notcaliper/ASEP-AIDS)** | AI Security & Intrusion Detection system leveraging real-time edge computer vision streams. | `Python` `TensorFlow` `FastAPI` |
-| 🅿️ **[python-parking](https://github.com/notcaliper/python-parking)** | Automated smart parking management system powered by license plate detection & occupancy tracking. | `Python` `OpenCV` `SQLite` |
+| 📜 **[Digiverify](https://github.com/Desapphire/Digiverify)** | Blockchain-powered land registry and verification platform featuring NFT-based property tokenization. | `Solidity` `React` `Node.js` `IPFS` |
+| 🎮 **[Feliactyl](https://github.com/notcaliper/Feliactyl)** | Self-hosted client dashboard for the Pterodactyl game server panel featuring coin economy & resource store. | `JavaScript` `Node.js` `Express` |
 | 🔍 **[TrueView](https://github.com/Desapphire/TrueView)** | Decentralized deepfake detection and digital content provenance verification platform. | `Python` `Deep Learning` `Web3` |
 | 📦 **[lost-found](https://github.com/notcaliper/lost-found)** | Campus asset recovery platform with image matching & automated notification pipelines. | `TypeScript` `React` `Node.js` |
 
@@ -160,11 +160,20 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 
 <br/><br/>
 
-<a href="https://github.com/notcaliper/ASEP-AIDS">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=ASEP-AIDS&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+<a href="https://github.com/Desapphire/Digiverify">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Desapphire&repo=Digiverify&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
 </a>
-<a href="https://github.com/notcaliper/python-parking">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=python-parking&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+<a href="https://github.com/notcaliper/Feliactyl">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=Feliactyl&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Desapphire/TrueView">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Desapphire&repo=TrueView&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
+</a>
+<a href="https://github.com/notcaliper/lost-found">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=lost-found&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
 </a>
 
 </div>
