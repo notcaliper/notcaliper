@@ -140,12 +140,12 @@ I am a full-stack engineer and hardware builder specializing in **Computer Visio
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🚁 **[HandGaze](https://github.com/notcaliper/HandGaze)** | AI-powered gesture & eye-tracking controller for autonomous drone flight navigation. | `Python` `OpenCV` `MediaPipe` `IoT` |
-| 🛡️ **[TrueID](https://github.com/notcaliper/TrueID)** | Decentralized identity platform integrating biometric verification with Ethereum smart contracts. | `Solidity` `React` `IPFS` `Ethers.js` |
-| 📜 **[Digiverify](https://github.com/Desapphire/Digiverify)** | Blockchain-powered land registry and verification platform featuring NFT-based property tokenization. | `Solidity` `React` `Node.js` `IPFS` |
-| 🎮 **[Feliactyl](https://github.com/notcaliper/Feliactyl)** | Self-hosted client dashboard for the Pterodactyl game server panel featuring coin economy & resource store. | `JavaScript` `Node.js` `Express` |
-| 🔍 **[TrueView](https://github.com/Desapphire/TrueView)** | Decentralized deepfake detection and digital content provenance verification platform. | `Python` `Deep Learning` `Web3` |
-| 📦 **[lost-found](https://github.com/notcaliper/lost-found)** | Campus asset recovery platform with image matching & automated notification pipelines. | `TypeScript` `React` `Node.js` |
+| **[HandGaze](https://github.com/notcaliper/HandGaze)** | AI-powered gesture & eye-tracking controller for autonomous drone flight navigation. | `Python` `OpenCV` `MediaPipe` `IoT` |
+| **[TrueID](https://github.com/notcaliper/TrueID)** | Decentralized identity platform integrating biometric verification with Ethereum smart contracts. | `Solidity` `React` `IPFS` `Ethers.js` |
+| **[Digiverify](https://github.com/Desapphire/Digiverify)** | Blockchain-powered land registry and verification platform featuring NFT-based property tokenization. | `Solidity` `React` `Node.js` `IPFS` |
+| **[Feliactyl](https://github.com/notcaliper/Feliactyl)** | Self-hosted client dashboard for the Pterodactyl game server panel featuring coin economy & resource store. | `JavaScript` `Node.js` `Express` |
+| **[TrueView](https://github.com/Desapphire/TrueView)** | Decentralized deepfake detection and digital content provenance verification platform. | `Python` `Deep Learning` `Web3` |
+| **[LostFound](https://github.com/notcaliper/lost-found)** | Campus asset recovery platform with image matching & automated notification pipelines. | `TypeScript` `React` `Node.js` |
 
 <br/>
 
