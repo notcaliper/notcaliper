@@ -286,6 +286,6 @@
 
   <br/><br/>
 
-  <sub>Engineered with precision &bull; <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a> &bull; All Rights Reserved</sub>
+  <sub>Designed &amp; Engineered with precision &bull; <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a> &bull; All Rights Reserved</sub>
 
 </div>
