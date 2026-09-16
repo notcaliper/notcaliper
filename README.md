@@ -9,7 +9,7 @@
 
   <!-- Dynamic Typing SVG Banner -->
   <a href="https://notcaliper.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Engineer+%E2%80%A2+Hardware+Builder+%E2%80%A2+Systems+Architect;%F0%9F%9B%B8+Architecting+Autonomous+AI+Drone+Flight+Systems;%F0%9F%94%90+Developing+Zero-Knowledge+Proofs+%26+Decentralized+Identity;%F0%9F%91%81%EF%B8%8F+Edge+Computer+Vision+on+ESP32+%26+Embedded+Silicon;%F0%9F%9A%80+Turning+Complex+Theories+Into+Deterministic+Hardware" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Engineer+%E2%80%A2+Hardware+Builder+%E2%80%A2+Systems+Architect;Architecting+Autonomous+AI+Drone+Flight+Systems;Developing+Zero-Knowledge+Proofs+%26+Decentralized+Identity;Edge+Computer+Vision+on+ESP32+%26+Embedded+Silicon;Turning+Complex+Theories+Into+Deterministic+Hardware" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -29,12 +29,12 @@
 
 <br/>
 
-## 👨‍💻 System Intel & Mission Control
+## System Intel & Mission Control
 
 <table>
   <tr>
     <td width="64%" valign="top">
-      <h3>🚀 Hey there, I'm Akshay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" alt="wave"/></h3>
+      <h3>Hey there, I'm Akshay</h3>
       <p>
         I am a <b>full-stack systems engineer and hardware builder</b> operating at the convergence of <b>Computer Vision</b>, <b>Zero-Knowledge Cryptography</b>, and <b>Embedded Edge Hardware</b>.
       </p>
@@ -42,15 +42,15 @@
         My focus is designing deterministic, autonomous architectures that bridge physical silicon with intelligent decentralized software—ranging from gaze-navigated drone flight systems to biometric smart contract protocols.
       </p>
       <ul>
-        <li>🔭 <b>Active R&amp;D:</b> Gesture-driven aerial drone controllers &amp; ZK-SNARK privacy protocols</li>
-        <li>🛰️ <b>Hardware Mesh:</b> ESP32-S3, flight controllers, I2C/SPI biometric sensors &amp; bare-metal firmware</li>
-        <li>⚡ <b>Engineering Philosophy:</b> High throughput, memory safety, and <code>printf</code>-powered debugging with zero regrets</li>
-        <li>📍 <b>Coordinates:</b> Earth 🌍 <code>[0xAKSHAY // notcaliper]</code></li>
+        <li><b>Active R&amp;D:</b> Gesture-driven aerial drone controllers &amp; ZK-SNARK privacy protocols</li>
+        <li><b>Hardware Mesh:</b> ESP32-S3, flight controllers, I2C/SPI biometric sensors &amp; bare-metal firmware</li>
+        <li><b>Engineering Philosophy:</b> High throughput, memory safety, and <code>printf</code>-powered debugging with zero regrets</li>
+        <li><b>Coordinates:</b> Earth <code>[0xAKSHAY // notcaliper]</code></li>
       </ul>
     </td>
-    <td width="36%" align="center" valign="middle">
+    <td width="38%" align="center" valign="middle">
       <a href="https://github.com/notcaliper">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcaliper&layout=donut&theme=tokyonight&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&hide_border=false" width="100%" alt="Language Breakdown" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&langs_count=6" width="100%" alt="Real-Time Language Breakdown"/>
       </a>
     </td>
   </tr>
@@ -63,7 +63,7 @@
 
 <br/>
 
-## ⚡ Active Radar & Core Pillars
+## Active Radar & Core Pillars
 
 <img src="./assets/card-focus.svg" width="100%" alt="Current Focus Radar" />
 
@@ -74,7 +74,7 @@
 
 <br/>
 
-## 🛠️ Technical Stack & Arsenal
+## Technical Stack & Arsenal
 
 <div align="center">
 
@@ -132,11 +132,11 @@
 
 <br/>
 
-## 🏆 GitHub Honors & Trophies
+## GitHub Honors & Trophies
 
 <div align="center">
   <a href="https://github.com/notcaliper">
-    <img src="https://trophy.benkou.dev/?username=notcaliper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+    <img src="https://trophy.benkou.dev/?username=notcaliper&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -147,57 +147,57 @@
 
 <br/>
 
-## 📦 Featured Engineering Deployments
+## Featured Engineering Deployments
 
 <div align="center">
 
 | Project | Domain | Architecture & Highlights | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| **[HandGaze](https://github.com/notcaliper/HandGaze)** | `🚁 Autonomous Vision` | AI-powered dual gesture & eye-tracking controller for autonomous drone flight navigation. | `Python` `OpenCV` `MediaPipe` `IoT` |
-| **[TrueID](https://github.com/notcaliper/TrueID)** | `🔐 Cryptographic DID` | Decentralized biometric identity verification platform with zero-knowledge Ethereum smart contracts. | `Solidity` `ZK-Proofs` `React` `IPFS` |
-| **[Digiverify](https://github.com/Desapphire/Digiverify)** | `📜 On-Chain Registry` | Blockchain property verification and deed registry platform featuring NFT tokenization & audit trails. | `Solidity` `React` `Node.js` `IPFS` |
-| **[Feliactyl](https://github.com/notcaliper/Feliactyl)** | `🕹️ Cloud Infra` | High-performance client management dashboard for Pterodactyl game server panels with coin economy. | `JavaScript` `Node.js` `Express` `Tailwind` |
-| **[TrueView](https://github.com/Desapphire/TrueView)** | `🧠 AI Provenance` | Decentralized deepfake detection and cryptographic digital content provenance verification platform. | `Python` `PyTorch` `Deep Learning` `Web3` |
-| **[LostFound](https://github.com/notcaliper/lost-found)** | `🔍 Asset Intelligence` | Campus asset recovery platform featuring neural image matching and automated notification pipelines. | `TypeScript` `React` `Node.js` `PostgreSQL` |
+| **[HandGaze](https://github.com/notcaliper/HandGaze)** | `Autonomous Vision` | AI-powered dual gesture & eye-tracking controller for autonomous drone flight navigation. | `Python` `OpenCV` `MediaPipe` `IoT` |
+| **[TrueID](https://github.com/notcaliper/TrueID)** | `Cryptographic DID` | Decentralized biometric identity verification platform with zero-knowledge Ethereum smart contracts. | `Solidity` `ZK-Proofs` `React` `IPFS` |
+| **[Digiverify](https://github.com/Desapphire/Digiverify)** | `On-Chain Registry` | Blockchain property verification and deed registry platform featuring NFT tokenization & audit trails. | `Solidity` `React` `Node.js` `IPFS` |
+| **[Feliactyl](https://github.com/notcaliper/Feliactyl)** | `Cloud Infra` | High-performance client management dashboard for Pterodactyl game server panels with coin economy. | `JavaScript` `Node.js` `Express` `Tailwind` |
+| **[TrueView](https://github.com/Desapphire/TrueView)** | `AI Provenance` | Decentralized deepfake detection and cryptographic digital content provenance verification platform. | `Python` `PyTorch` `Deep Learning` `Web3` |
+| **[LostFound](https://github.com/notcaliper/lost-found)** | `Asset Intelligence` | Campus asset recovery platform featuring neural image matching and automated notification pipelines. | `TypeScript` `React` `Node.js` `PostgreSQL` |
 
 <br/>
 
-### 🌟 Pinned Repositories Spotlight
+### Pinned Repositories Spotlight
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/notcaliper/HandGaze">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=tokyonight&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/notcaliper/TrueID">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=tokyonight&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Desapphire/Digiverify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Desapphire&repo=Digiverify&theme=tokyonight&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Desapphire&repo=Digiverify&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/notcaliper/Feliactyl">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=Feliactyl&theme=tokyonight&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=Feliactyl&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Desapphire/TrueView">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Desapphire&repo=TrueView&theme=tokyonight&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Desapphire&repo=TrueView&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/notcaliper/lost-found">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=notcaliper&repo=lost-found&theme=tokyonight&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=lost-found&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
       </a>
     </td>
   </tr>
@@ -212,7 +212,7 @@
 
 <br/>
 
-## 📊 Analytics & Developer Telemetry
+## Analytics & Developer Telemetry
 
 <div align="center">
 
@@ -220,12 +220,24 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/notcaliper">
-          <img src="https://github-readme-stats.vercel.app/api?username=notcaliper&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide_border=false" width="100%" alt="GitHub Stats"/>
+          <img src="https://github-stats-extended.vercel.app/api?username=notcaliper&show_icons=true&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide_border=false" width="100%" alt="GitHub Stats"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/notcaliper">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=tokyonight&background=0B0F19&border=1E293B&stroke=38BDF8&ring=818CF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="100%" alt="GitHub Streak"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=dark&background=0B0F19&border=1E293B&stroke=38BDF8&ring=818CF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="100%" alt="GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/notcaliper">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&langs_count=6" width="100%" alt="Top Languages"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/notcaliper">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notcaliper&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time"/>
         </a>
       </td>
     </tr>
@@ -246,7 +258,7 @@
 
 <br/>
 
-## 🐍 Contribution Constellation
+## Contribution Constellation
 
 <div align="center">
   <picture>
@@ -274,6 +286,6 @@
 
   <br/><br/>
 
-  <sub>⚡ Engineered with precision &bull; <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a> &bull; All Rights Reserved ⚡</sub>
+  <sub>Engineered with precision &bull; <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a> &bull; All Rights Reserved</sub>
 
 </div>

@@ -132,19 +132,19 @@
     <g transform="translate(45, 195)">
       <!-- Badge 1: Rust/C++ -->
       <rect x="0" y="0" width="100" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
-      <text x="50" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#38bdf8" text-anchor="middle">⚡ RUST / C++</text>
+      <text x="50" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#38bdf8" text-anchor="middle">RUST / C++</text>
 
       <!-- Badge 2: OpenCV/MediaPipe -->
-      <rect x="108" y="0" width="135" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
-      <text x="175" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#818cf8" text-anchor="middle">👁️ EDGE VISION</text>
+      <rect x="108" y="0" width="125" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
+      <text x="170" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#818cf8" text-anchor="middle">EDGE VISION</text>
 
       <!-- Badge 3: ZK Proofs -->
-      <rect x="251" y="0" width="125" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
-      <text x="313" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c084fc" text-anchor="middle">🔐 ZK-SNARKS</text>
+      <rect x="241" y="0" width="115" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
+      <text x="298" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c084fc" text-anchor="middle">ZK-SNARKS</text>
 
       <!-- Badge 4: ESP32 Hardware -->
-      <rect x="384" y="0" width="120" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
-      <text x="444" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#34d399" text-anchor="middle">🛰️ ESP32 IOT</text>
+      <rect x="364" y="0" width="110" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
+      <text x="419" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#34d399" text-anchor="middle">ESP32 IOT</text>
     </g>
 
     <!-- Sci-Fi HUD Terminal Box (Right Side) -->
@@ -167,7 +167,7 @@
       <text x="14" y="74" class="hud-code"><tspan class="hud-accent">&gt;</tspan> target: <tspan fill="#f1f5f9">drone_fc / esp32</tspan></text>
       <text x="14" y="96" class="hud-code"><tspan class="hud-accent">&gt;</tspan> vision: <tspan class="hud-green">mediapipe_60fps</tspan></text>
       <text x="14" y="118" class="hud-code"><tspan class="hud-accent">&gt;</tspan> cipher: <tspan class="hud-accent">zk_snark_plonk</tspan></text>
-      <text x="14" y="140" class="hud-code"><tspan class="hud-accent">&gt;</tspan> origin: <tspan fill="#e2e8f0">Earth 🌍 [0xAKSHAY]</tspan></text>
+      <text x="14" y="140" class="hud-code"><tspan class="hud-accent">&gt;</tspan> origin: <tspan fill="#e2e8f0">Earth [0xAKSHAY]</tspan></text>
       <text x="14" y="162" class="hud-code"><tspan class="hud-green">&gt;</tspan> stdout: <tspan fill="#38bdf8">ready_to_build</tspan><tspan class="cursor-blink" fill="#38bdf8">_</tspan></text>
     </g>
   </g>
