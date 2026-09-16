@@ -1,243 +1,291 @@
 <div align="center">
 
-  <!-- Main Glassmorphism Header Banner -->
-  <img src="./assets/header-glassmorphism.svg" alt="Akshay Header Banner" width="100%" />
+  <!-- Main Glassmorphism Cyber-HUD Banner -->
+  <a href="https://github.com/notcaliper">
+    <img src="./assets/header-glassmorphism.svg" alt="Akshay Header Banner" width="100%" />
+  </a>
 
   <br/><br/>
 
   <!-- Dynamic Typing SVG Banner -->
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Engineer+%E2%80%A2+Builder+%E2%80%A2+System+Architect;Building+Autonomous+AI+Drone+Systems;Developing+ZK-Proofs+%26+Decentralized+Identity;Integrating+Edge+Computer+Vision+with+ESP32+Hardware" alt="Typing SVG" />
+  <a href="https://notcaliper.dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Engineer+%E2%80%A2+Hardware+Builder+%E2%80%A2+Systems+Architect;Architecting+Autonomous+AI+Drone+Flight+Systems;Developing+Zero-Knowledge+Proofs+%26+Decentralized+Identity;Edge+Computer+Vision+on+ESP32+%26+Embedded+Silicon;Turning+Complex+Theories+Into+Deterministic+Hardware" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Quick Social & Contact Badges -->
-  <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/notcaliper"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://notcaliper.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=00f2fe" alt="Portfolio"/></a>
-  <a href="mailto:akshaymanbhaw27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/notakshay"><img src="https://img.shields.io/badge/LinkedIn-notakshay-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=030712" alt="LinkedIn"/></a> &nbsp;
+  <a href="https://github.com/notcaliper"><img src="https://img.shields.io/badge/GitHub-notcaliper-0b0f19?style=for-the-badge&logo=github&logoColor=white&labelColor=030712" alt="GitHub"/></a> &nbsp;
+  <a href="https://notcaliper.dev"><img src="https://img.shields.io/badge/Portfolio-notcaliper.dev-0b0f19?style=for-the-badge&logo=safari&logoColor=38bdf8&labelColor=030712" alt="Portfolio"/></a> &nbsp;
+  <a href="mailto:akshaymanbhaw27@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=030712" alt="Email"/></a>
 
 </div>
 
 <br/>
 
-<!-- Glass Divider -->
+<!-- Neon Laser Divider -->
 <img src="./assets/glass-divider.svg" width="100%" />
 
 <br/>
 
-## 👨‍💻 About Me
+## System Intel & Mission Control
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  ENGINEER @ INTERSECTION OF AI • BLOCKCHAIN • IOT                           │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-> *"Turning complex ideas into seamless code & hardware systems."*
-
-I am a full-stack engineer and hardware builder specializing in **Computer Vision**, **Zero-Knowledge Web3 Architectures**, and **Embedded IoT Systems**. My work focuses on building autonomous systems that bridge physical hardware with intelligent software—ranging from gesture-controlled drones to biometric decentralized identities.
-
-- 🌍 **Based in:** Earth
-- 🔭 **Current Focus:** AI-driven drone navigation & ZK cryptography
-- ⚡ **Fun Fact:** I debug with `console.log` and `printf` with zero regrets.
+<table>
+  <tr>
+    <td width="64%" valign="top">
+      <h3>Hey there, I'm Akshay</h3>
+      <p>
+        I am a <b>full-stack systems engineer and hardware builder</b> operating at the convergence of <b>Computer Vision</b>, <b>Zero-Knowledge Cryptography</b>, and <b>Embedded Edge Hardware</b>.
+      </p>
+      <p>
+        My focus is designing deterministic, autonomous architectures that bridge physical silicon with intelligent decentralized software—ranging from gaze-navigated drone flight systems to biometric smart contract protocols.
+      </p>
+      <ul>
+        <li><b>Active R&amp;D:</b> Gesture-driven aerial drone controllers &amp; ZK-SNARK privacy protocols</li>
+        <li><b>Hardware Mesh:</b> ESP32-S3, flight controllers, I2C/SPI biometric sensors &amp; bare-metal firmware</li>
+        <li><b>Engineering Philosophy:</b> High throughput, memory safety, and <code>printf</code>-powered debugging with zero regrets</li>
+        <li><b>Coordinates:</b> Earth <code>[0xAKSHAY // notcaliper]</code></li>
+      </ul>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <a href="https://github.com/notcaliper">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&langs_count=6" width="100%" alt="Real-Time Language Breakdown"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Glass Divider -->
+<!-- Neon Laser Divider -->
 <img src="./assets/glass-divider.svg" width="100%" />
 
 <br/>
 
-## ⚡ Current Focus & Active Radar
+## Active Radar & Core Pillars
 
 <img src="./assets/card-focus.svg" width="100%" alt="Current Focus Radar" />
 
 <br/>
 
-<!-- Glass Divider -->
+<!-- Neon Laser Divider -->
 <img src="./assets/glass-divider.svg" width="100%" />
 
 <br/>
 
-## 🛠️ Technical Stack & Arsenal
+## Technical Stack & Arsenal
 
 <div align="center">
 
-### **Languages & Core**
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /> Python</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /> C++</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" /> Rust</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /> TypeScript</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> JavaScript</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" /> Solidity</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" /> Embedded C</code>
+### **Languages & Low-Level Systems**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,js,solidity&theme=dark" alt="Languages" />
+</a>
 
 <br/><br/>
 
-### **AI, ML & Computer Vision**
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" /> OpenCV</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /> TensorFlow</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" /> PyTorch</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" /> FastAPI</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" /> NumPy</code>
+### **AI, ML & Edge Computer Vision**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,fastapi&theme=dark" alt="AI & Vision" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/> &nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> &nbsp;
+<img src="https://img.shields.io/badge/Real--Time_Spatial_Tracking-38BDF8?style=flat-square&logo=radar&logoColor=white" alt="Spatial Tracking"/>
 
 <br/><br/>
 
-### **Web Frameworks & Databases**
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /> React</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" /> Next.js</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" /> Node.js</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" /> Tailwind</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /> PostgreSQL</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" /> MongoDB</code>
+### **Web Frameworks, Protocols & Databases**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,postgres,mongodb&theme=dark" alt="Web & DB" />
+</a>
 
 <br/><br/>
 
-### **Blockchain & Web3**
-<code><img height="36" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" /> Ethereum</code> &nbsp;
-<code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" /> IPFS</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" alt="Hardhat" /> Hardhat</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ethers.svg" alt="Ethers.js" /> Ethers.js</code>
-
-<br/><br/>
-
-### **IoT & Systems**
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" /> Arduino</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" /> Raspberry Pi</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /> Docker</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /> Git</code> &nbsp;
-<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /> Linux</code>
+### **Blockchain & Cryptography (Web3)**
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/> &nbsp;
+  <img src="https://img.shields.io/badge/ZK--SNARKs-818CF8?style=for-the-badge&logo=shield&logoColor=white" alt="ZK Proofs"/> &nbsp;
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/> &nbsp;
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/> &nbsp;
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
+</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-notakshay-8b949e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/notakshay)
-[![GitHub](https://img.shields.io/badge/GitHub-notcaliper-8b949e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notcaliper)
-[![Portfolio](https://img.shields.io/badge/Portfolio-notcaliper.dev-8b949e?style=for-the-badge&logo=safari&logoColor=white)](https://notcaliper.dev)
-[![Email](https://img.shields.io/badge/Email-akshaymanbhaw27-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaymanbhaw27@gmail.com)
+### **Embedded IoT, Firmware & DevOps**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,linux&theme=dark" alt="IoT & DevOps" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/> &nbsp;
+<img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-10B981?style=flat-square&logo=microchip&logoColor=white" alt="Protocols"/> &nbsp;
+<img src="https://img.shields.io/badge/RTOS%20Firmware-0284C7?style=flat-square&logo=freebsd&logoColor=white" alt="RTOS"/>
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://trophy.benkou.dev/?username=notcaliper&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<!-- Glass Divider -->
+<!-- Neon Laser Divider -->
 <img src="./assets/glass-divider.svg" width="100%" />
 
 <br/>
 
-## 📦 Featured Engineering Projects
+## GitHub Honors & Trophies
 
 <div align="center">
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[HandGaze](https://github.com/notcaliper/HandGaze)** | AI-powered gesture & eye-tracking controller for autonomous drone flight navigation. | `Python` `OpenCV` `MediaPipe` `IoT` |
-| **[TrueID](https://github.com/notcaliper/TrueID)** | Decentralized identity platform integrating biometric verification with Ethereum smart contracts. | `Solidity` `React` `IPFS` `Ethers.js` |
-| **[Digiverify](https://github.com/Desapphire/Digiverify)** | Blockchain-powered land registry and verification platform featuring NFT-based property tokenization. | `Solidity` `React` `Node.js` `IPFS` |
-| **[Feliactyl](https://github.com/notcaliper/Feliactyl)** | Self-hosted client dashboard for the Pterodactyl game server panel featuring coin economy & resource store. | `JavaScript` `Node.js` `Express` |
-| **[TrueView](https://github.com/Desapphire/TrueView)** | Decentralized deepfake detection and digital content provenance verification platform. | `Python` `Deep Learning` `Web3` |
-| **[LostFound](https://github.com/notcaliper/lost-found)** | Campus asset recovery platform with image matching & automated notification pipelines. | `TypeScript` `React` `Node.js` |
+  <a href="https://github.com/notcaliper">
+    <img src="https://trophy.benkou.dev/?username=notcaliper&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 
 <br/>
 
-### 🌟 Project Repositories Spotlight
+<!-- Neon Laser Divider -->
+<img src="./assets/glass-divider.svg" width="100%" />
 
-<a href="https://github.com/notcaliper/HandGaze">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
-</a>
-<a href="https://github.com/notcaliper/TrueID">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
-</a>
+<br/>
 
-<br/><br/>
+## Featured Engineering Deployments
 
-<a href="https://github.com/Desapphire/Digiverify">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Desapphire&repo=Digiverify&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
-</a>
-<a href="https://github.com/notcaliper/Feliactyl">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=Feliactyl&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
-</a>
+<div align="center">
 
-<br/><br/>
+| Project | Domain | Architecture & Highlights | Tech Stack |
+| :--- | :---: | :--- | :--- |
+| **[HandGaze](https://github.com/notcaliper/HandGaze)** | `Autonomous Vision` | AI-powered dual gesture & eye-tracking controller for autonomous drone flight navigation. | `Python` `OpenCV` `MediaPipe` `IoT` |
+| **[TrueID](https://github.com/notcaliper/TrueID)** | `Cryptographic DID` | Decentralized biometric identity verification platform with zero-knowledge Ethereum smart contracts. | `Solidity` `ZK-Proofs` `React` `IPFS` |
+| **[Digiverify](https://github.com/Desapphire/Digiverify)** | `On-Chain Registry` | Blockchain property verification and deed registry platform featuring NFT tokenization & audit trails. | `Solidity` `React` `Node.js` `IPFS` |
+| **[Feliactyl](https://github.com/notcaliper/Feliactyl)** | `Cloud Infra` | High-performance client management dashboard for Pterodactyl game server panels with coin economy. | `JavaScript` `Node.js` `Express` `Tailwind` |
+| **[TrueView](https://github.com/Desapphire/TrueView)** | `AI Provenance` | Decentralized deepfake detection and cryptographic digital content provenance verification platform. | `Python` `PyTorch` `Deep Learning` `Web3` |
+| **[LostFound](https://github.com/notcaliper/lost-found)** | `Asset Intelligence` | Campus asset recovery platform featuring neural image matching and automated notification pipelines. | `TypeScript` `React` `Node.js` `PostgreSQL` |
 
-<a href="https://github.com/Desapphire/TrueView">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Desapphire&repo=TrueView&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
-</a>
-<a href="https://github.com/notcaliper/lost-found">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=lost-found&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="48%"/>
-</a>
+<br/>
+
+### Pinned Repositories Spotlight
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/notcaliper/HandGaze">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=HandGaze&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/notcaliper/TrueID">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=TrueID&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Desapphire/Digiverify">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Desapphire&repo=Digiverify&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/notcaliper/Feliactyl">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=Feliactyl&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Desapphire/TrueView">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Desapphire&repo=TrueView&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/notcaliper/lost-found">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=notcaliper&repo=lost-found&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- Glass Divider -->
+<!-- Neon Laser Divider -->
 <img src="./assets/glass-divider.svg" width="100%" />
 
 <br/>
 
-## 📊 Analytics & Developer Insights
+## Analytics & Developer Telemetry
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=notcaliper&show_icons=true&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide=issues" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=dark&background=0F172A&border=1E293B&stroke=38BDF8&ring=818CF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="48%" alt="GitHub Streak"/>
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/notcaliper">
+          <img src="https://github-stats-extended.vercel.app/api?username=notcaliper&show_icons=true&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide_border=false" width="100%" alt="GitHub Stats"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/notcaliper">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcaliper&theme=dark&background=0B0F19&border=1E293B&stroke=38BDF8&ring=818CF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="100%" alt="GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/notcaliper">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=dark&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&langs_count=6" width="100%" alt="Top Languages"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/notcaliper">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notcaliper&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=notcaliper&layout=compact&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&langs_count=6" width="48%" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notcaliper&theme=github_dark&utcOffset=5.5" width="48%" alt="Productive Time"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=react-dark&bg_color=0f172a&color=38bdf8&line=818cf8&point=c084fc&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <a href="https://github.com/notcaliper">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=notcaliper&theme=react-dark&bg_color=0b0f19&color=38bdf8&line=818cf8&point=c084fc&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
+  </a>
 
 </div>
 
 <br/>
 
-<!-- Glass Divider -->
+<!-- Neon Laser Divider -->
 <img src="./assets/glass-divider.svg" width="100%" />
 
 <br/>
 
-## 🐍 Contribution Snake Grid
+## Contribution Constellation
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-snake.svg">
-    <img alt="github contribution snake grid animation" src="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-snake-dark.svg" width="95%">
+    <img alt="github contribution snake grid animation" src="https://raw.githubusercontent.com/notcaliper/notcaliper/output/github-snake-dark.svg" width="98%">
   </picture>
 </div>
 
 <br/>
 
-<!-- Glass Divider -->
+<!-- Neon Laser Divider -->
 <img src="./assets/glass-divider.svg" width="100%" />
 
 <br/>
 
 <!-- Footer Glassmorphism Card -->
-<img src="./assets/footer-glassmorphism.svg" width="100%" />
+<img src="./assets/footer-glassmorphism.svg" width="100%" alt="Footer Mission Control" />
 
 <br/>
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=notcaliper&style=for-the-badge&color=0f172a&label=PROFILE+VISITS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=notcaliper&style=for-the-badge&color=38bdf8&labelColor=0b0f19&label=PROFILE+TELEMETRY" alt="Profile views"/>
 
   <br/><br/>
 
-  <sub>Designed &amp; Engineered with precision by <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a></sub>
+  <sub>Designed &amp; Engineered with precision &bull; <a href="https://github.com/notcaliper">Akshay (@notcaliper)</a> &bull; All Rights Reserved</sub>
 
 </div>
