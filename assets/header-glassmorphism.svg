@@ -1,97 +1,174 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 260" width="100%" height="100%">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f19" />
-      <stop offset="50%" stop-color="#111827" />
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#0b0f19" />
       <stop offset="100%" stop-color="#0f172a" />
     </linearGradient>
 
-    <!-- Glass Card Border Gradient -->
+    <!-- Glowing Border Gradient -->
     <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5"/>
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="35%" stop-color="#818cf8" stop-opacity="0.3"/>
+      <stop offset="70%" stop-color="#c084fc" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.4"/>
     </linearGradient>
 
     <!-- Text Gradient Primary -->
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="45%" stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
 
-    <!-- Text Gradient Secondary -->
-    <linearGradient id="subtext-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f8fafc"/>
+    <!-- Subtitle Gradient -->
+    <linearGradient id="sub-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f1f5f9"/>
       <stop offset="100%" stop-color="#94a3b8"/>
     </linearGradient>
 
-    <!-- Glow Filter -->
+    <!-- Radar Sweep Gradient -->
+    <linearGradient id="stream-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glow Filters -->
     <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="35" result="blur" />
+      <feGaussianBlur stdDeviation="40" result="blur" />
     </filter>
     <filter id="glow-purple" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="45" result="blur" />
     </filter>
+    <filter id="laser-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+    </filter>
+
+    <!-- Cyber Grid Pattern -->
+    <pattern id="cyber-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.45"/>
+      <circle cx="0" cy="0" r="1" fill="#38bdf8" fill-opacity="0.3"/>
+    </pattern>
   </defs>
 
   <style>
-    .title { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 800; font-size: 38px; fill: url(#text-grad); }
-    .subtitle { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 14px; fill: url(#subtext-grad); letter-spacing: 2px; }
-    .desc { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 400; font-size: 13px; fill: #94a3b8; }
-    .tag { font-family: 'Fira Code', monospace; font-size: 11px; fill: #38bdf8; }
-    .badge-text { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 11px; fill: #34d399; letter-spacing: 1px; }
-    
-    @keyframes pulse {
-      0%, 100% { opacity: 0.35; transform: scale(1); }
-      50% { opacity: 0.6; transform: scale(1.08); }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 900; font-size: 42px; fill: url(#title-grad); letter-spacing: -0.5px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 13px; fill: #38bdf8; letter-spacing: 2.5px; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 13.5px; fill: #94a3b8; }
+    .hud-title { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; font-weight: 700; font-size: 10px; fill: #38bdf8; letter-spacing: 1.5px; }
+    .hud-code { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; font-size: 11px; fill: #cbd5e1; }
+    .hud-accent { fill: #38bdf8; }
+    .hud-green { fill: #34d399; }
+    .hud-purple { fill: #c084fc; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 10.5px; fill: #34d399; letter-spacing: 1.2px; }
+
+    @keyframes pulseOrb {
+      0%, 100% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 0.55; transform: scale(1.1); }
     }
-    @keyframes float {
+    @keyframes floatCard {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-4px); }
+      50% { transform: translateY(-3px); }
     }
-    .orb-1 { animation: pulse 6s ease-in-out infinite; transform-origin: 150px 100px; }
-    .orb-2 { animation: pulse 8s ease-in-out infinite alternate; transform-origin: 700px 150px; }
-    .floating-card { animation: float 5s ease-in-out infinite; }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.2; }
+    }
+    @keyframes radarScan {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(100%); }
+    }
+    .orb-cyan { animation: pulseOrb 7s ease-in-out infinite; transform-origin: 180px 100px; }
+    .orb-purple { animation: pulseOrb 8s ease-in-out infinite alternate; transform-origin: 780px 160px; }
+    .floating-hud { animation: floatCard 6s ease-in-out infinite; }
+    .status-beacon { animation: blink 1.8s ease-in-out infinite; }
+    .cursor-blink { animation: blink 1s step-end infinite; }
   </style>
 
-  <!-- Outer Canvas Base -->
-  <rect width="850" height="250" rx="20" fill="url(#bg-grad)"/>
+  <!-- Canvas Base -->
+  <rect width="950" height="260" rx="20" fill="url(#bg-grad)"/>
+
+  <!-- Cyber Grid Matrix Overlay -->
+  <rect width="950" height="260" rx="20" fill="url(#cyber-grid)" />
 
   <!-- Ambient Glowing Orbs -->
-  <circle class="orb-1" cx="150" cy="80" r="100" fill="#0284c7" opacity="0.35" filter="url(#glow-cyan)"/>
-  <circle class="orb-2" cx="720" cy="170" r="120" fill="#7e22ce" opacity="0.35" filter="url(#glow-purple)"/>
+  <circle class="orb-cyan" cx="180" cy="90" r="110" fill="#0284c7" opacity="0.35" filter="url(#glow-cyan)"/>
+  <circle class="orb-purple" cx="780" cy="160" r="130" fill="#7e22ce" opacity="0.32" filter="url(#glow-purple)"/>
 
-  <!-- Glassmorphism Container Card -->
-  <g class="floating-card">
-    <rect x="25" y="25" width="800" height="200" rx="16" fill="#1e293b" fill-opacity="0.45" stroke="url(#border-grad)" stroke-width="1.5"/>
+  <!-- Main Glassmorphism Frame -->
+  <g class="floating-hud">
+    <!-- Frosted Glass Surface -->
+    <rect x="20" y="20" width="910" height="220" rx="16" fill="#0f172a" fill-opacity="0.55" stroke="url(#border-grad)" stroke-width="1.2"/>
 
-    <!-- Subtle Glass Reflection Line -->
-    <path d="M 26 26 L 824 26 C 824 26 800 65 26 65 Z" fill="#ffffff" fill-opacity="0.03" />
+    <!-- Subtle Glass Header Highlight -->
+    <path d="M 21 21 L 929 21 C 929 21 900 65 21 65 Z" fill="#ffffff" fill-opacity="0.02" />
 
-    <!-- Terminal Pill Indicator -->
-    <rect x="50" y="48" width="180" height="26" rx="13" fill="#0f172a" fill-opacity="0.7" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1"/>
-    <circle cx="64" cy="61" r="4" fill="#34d399"/>
-    <text x="76" y="65" class="badge-text">OPEN FOR COLLAB</text>
+    <!-- Sci-Fi Corner Accents -->
+    <path d="M 20 40 L 20 20 L 40 20" stroke="#38bdf8" stroke-width="2.5" fill="none" />
+    <path d="M 910 20 L 930 20 L 930 40" stroke="#c084fc" stroke-width="2.5" fill="none" />
+    <path d="M 20 220 L 20 240 L 40 240" stroke="#38bdf8" stroke-width="2.5" fill="none" />
+    <path d="M 910 240 L 930 240 L 930 220" stroke="#c084fc" stroke-width="2.5" fill="none" />
 
-    <!-- Main Heading -->
-    <text x="50" y="116" class="title">AKSHAY <tspan fill="#f8fafc" font-weight="300">|</tspan> notcaliper</text>
+    <!-- Top Status Indicator Badge -->
+    <g transform="translate(45, 42)">
+      <rect width="210" height="26" rx="13" fill="#030712" fill-opacity="0.75" stroke="#1e293b" stroke-width="1"/>
+      <circle class="status-beacon" cx="16" cy="13" r="4" fill="#34d399"/>
+      <circle cx="16" cy="13" r="7" fill="#34d399" fill-opacity="0.2"/>
+      <text x="30" y="17" class="badge-text">STATUS: ONLINE &amp; BUILDING</text>
+    </g>
 
-    <!-- Subtitle & Domain Focus -->
-    <text x="50" y="144" class="subtitle">FULL STACK • AI • BLOCKCHAIN • IOT</text>
+    <!-- Main Title & Handle -->
+    <text x="45" y="112" class="title">AKSHAY <tspan fill="#475569" font-weight="300">/</tspan> <tspan fill="#f8fafc" font-size="36" font-weight="600">notcaliper</tspan></text>
+
+    <!-- Subtitle Core Pillars -->
+    <text x="45" y="142" class="subtitle">AI DRONES • COMPUTER VISION • ZK ARCHITECTURES • EMBEDDED IOT</text>
     
-    <!-- Brief Description -->
-    <text x="50" y="172" class="desc">Engineering autonomous hardware, computer vision &amp; Web3 protocols.</text>
+    <!-- Mission Statement -->
+    <text x="45" y="174" class="desc">Architecting autonomous hardware systems, neural edge vision &amp; cryptographic Web3 protocols.</text>
 
-    <!-- Tech Tag Deco on Right -->
-    <g transform="translate(625, 45)">
-      <rect x="0" y="0" width="175" height="155" rx="12" fill="#0f172a" fill-opacity="0.6" stroke="#334155" stroke-width="1"/>
-      <text x="14" y="30" class="tag">&gt; status: active</text>
-      <text x="14" y="55" class="tag">&gt; focus: autonomous</text>
-      <text x="14" y="80" class="tag">&gt; stack: rust/py/sol</text>
-      <text x="14" y="105" class="tag">&gt; loc: earth 🌍</text>
-      <text x="14" y="130" class="tag">&gt; build_in_pub: true</text>
+    <!-- Bottom Accent Badges -->
+    <g transform="translate(45, 195)">
+      <!-- Badge 1: Rust/C++ -->
+      <rect x="0" y="0" width="100" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
+      <text x="50" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#38bdf8" text-anchor="middle">⚡ RUST / C++</text>
+
+      <!-- Badge 2: OpenCV/MediaPipe -->
+      <rect x="108" y="0" width="135" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
+      <text x="175" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#818cf8" text-anchor="middle">👁️ EDGE VISION</text>
+
+      <!-- Badge 3: ZK Proofs -->
+      <rect x="251" y="0" width="125" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
+      <text x="313" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c084fc" text-anchor="middle">🔐 ZK-SNARKS</text>
+
+      <!-- Badge 4: ESP32 Hardware -->
+      <rect x="384" y="0" width="120" height="22" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="0.8"/>
+      <text x="444" y="15" font-family="'JetBrains Mono', monospace" font-size="10" fill="#34d399" text-anchor="middle">🛰️ ESP32 IOT</text>
+    </g>
+
+    <!-- Sci-Fi HUD Terminal Box (Right Side) -->
+    <g transform="translate(680, 38)">
+      <!-- HUD Card Frame -->
+      <rect width="230" height="184" rx="12" fill="#030712" fill-opacity="0.7" stroke="#1e293b" stroke-width="1.2"/>
+      
+      <!-- Top HUD Header -->
+      <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 220 0 C 225.523 0 230 4.477 230 10 L 230 28 L 0 28 Z" fill="#0f172a" fill-opacity="0.85"/>
+      <line x1="0" y1="28" x2="230" y2="28" stroke="#334155" stroke-width="0.8"/>
+      
+      <!-- Terminal Dots -->
+      <circle cx="14" cy="14" r="3.5" fill="#ef4444" fill-opacity="0.8"/>
+      <circle cx="26" cy="14" r="3.5" fill="#f59e0b" fill-opacity="0.8"/>
+      <circle cx="38" cy="14" r="3.5" fill="#10b981" fill-opacity="0.8"/>
+      <text x="54" y="17" class="hud-title">TELEMETRY // SYSTEM</text>
+
+      <!-- HUD Telemetry Lines -->
+      <text x="14" y="52" class="hud-code"><tspan class="hud-accent">&gt;</tspan> kernel: <tspan class="hud-purple">embedded_rt</tspan></text>
+      <text x="14" y="74" class="hud-code"><tspan class="hud-accent">&gt;</tspan> target: <tspan fill="#f1f5f9">drone_fc / esp32</tspan></text>
+      <text x="14" y="96" class="hud-code"><tspan class="hud-accent">&gt;</tspan> vision: <tspan class="hud-green">mediapipe_60fps</tspan></text>
+      <text x="14" y="118" class="hud-code"><tspan class="hud-accent">&gt;</tspan> cipher: <tspan class="hud-accent">zk_snark_plonk</tspan></text>
+      <text x="14" y="140" class="hud-code"><tspan class="hud-accent">&gt;</tspan> origin: <tspan fill="#e2e8f0">Earth 🌍 [0xAKSHAY]</tspan></text>
+      <text x="14" y="162" class="hud-code"><tspan class="hud-green">&gt;</tspan> stdout: <tspan fill="#38bdf8">ready_to_build</tspan><tspan class="cursor-blink" fill="#38bdf8">_</tspan></text>
     </g>
   </g>
 </svg>

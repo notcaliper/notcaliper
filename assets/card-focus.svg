@@ -1,63 +1,146 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 175" width="100%" height="100%">
   <defs>
-    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.95"/>
-      <stop offset="100%" stop-color="#1e1b4b" stop-opacity="0.85"/>
+    <!-- Card Gradients -->
+    <linearGradient id="card-bg-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b132b" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0.95"/>
     </linearGradient>
-    <linearGradient id="focus-border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5"/>
+    <linearGradient id="card-bg-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141332" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0.95"/>
     </linearGradient>
+    <linearGradient id="card-bg-3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#061a1a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <!-- Border Gradients -->
+    <linearGradient id="border-cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="border-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="border-emerald" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#059669" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Ambient Glow Filters -->
+    <filter id="card-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+    </filter>
   </defs>
 
   <style>
-    .card-title { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 15px; fill: #f8fafc; }
-    .card-tag { font-family: 'Fira Code', monospace; font-weight: 600; font-size: 10px; fill: #38bdf8; letter-spacing: 1px; }
-    .card-desc { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 400; font-size: 12px; fill: #94a3b8; }
+    .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 16px; fill: #f8fafc; letter-spacing: 0.2px; }
+    .card-tag { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-weight: 700; font-size: 10px; letter-spacing: 1.5px; }
+    .card-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 12.5px; fill: #94a3b8; line-height: 1.5; }
+    .hud-stat { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 9.5px; font-weight: 600; fill: #64748b; }
+    
+    @keyframes pulseCard {
+      0%, 100% { opacity: 0.25; }
+      50% { opacity: 0.5; }
+    }
+    .pulse-cyan { animation: pulseCard 5s ease-in-out infinite; }
+    .pulse-purple { animation: pulseCard 6s ease-in-out infinite; }
+    .pulse-emerald { animation: pulseCard 5.5s ease-in-out infinite; }
   </style>
 
-  <g transform="translate(15, 10)">
-    <!-- Column 1: AI Drones & Vision -->
-    <g transform="translate(0, 0)">
-      <rect width="256" height="150" rx="14" fill="url(#card-bg)" stroke="url(#focus-border)" stroke-width="1.5"/>
-      <rect x="16" y="16" width="36" height="36" rx="10" fill="#0284c7" fill-opacity="0.25" stroke="#38bdf8" stroke-width="1"/>
-      <text x="34" y="39" font-size="18" text-anchor="middle">🚁</text>
-      <text x="62" y="32" class="card-title">AI Drones &amp; Vision</text>
-      <text x="62" y="47" class="card-tag">COMPUTER VISION</text>
-      <text x="16" y="78" class="card-desc">
-        <tspan x="16" dy="0">Autonomous drone navigation</tspan>
-        <tspan x="16" dy="18">systems with edge vision &amp;</tspan>
-        <tspan x="16" dy="18">real-time spatial mapping.</tspan>
-      </text>
-    </g>
+  <!-- Ambient Glow Blobs Behind Cards -->
+  <rect class="pulse-cyan" x="25" y="10" width="280" height="150" rx="20" fill="#0284c7" filter="url(#card-glow)"/>
+  <rect class="pulse-purple" x="335" y="10" width="280" height="150" rx="20" fill="#7e22ce" filter="url(#card-glow)"/>
+  <rect class="pulse-emerald" x="645" y="10" width="280" height="150" rx="20" fill="#059669" filter="url(#card-glow)"/>
 
-    <!-- Column 2: Rust & ZK Proofs -->
-    <g transform="translate(282, 0)">
-      <rect width="256" height="150" rx="14" fill="url(#card-bg)" stroke="url(#focus-border)" stroke-width="1.5"/>
-      <rect x="16" y="16" width="36" height="36" rx="10" fill="#6366f1" fill-opacity="0.25" stroke="#818cf8" stroke-width="1"/>
-      <text x="34" y="39" font-size="18" text-anchor="middle">🛡️</text>
-      <text x="62" y="32" class="card-title">Rust &amp; ZK Proofs</text>
-      <text x="62" y="47" class="card-tag">BLOCKCHAIN &amp; ZKP</text>
-      <text x="16" y="78" class="card-desc">
-        <tspan x="16" dy="0">Decentralized identity &amp;</tspan>
-        <tspan x="16" dy="18">zero-knowledge proof</tspan>
-        <tspan x="16" dy="18">cryptographic protocols.</tspan>
-      </text>
-    </g>
+  <!-- ================= CARD 1: AI Drones & Vision ================= -->
+  <g transform="translate(15, 8)">
+    <rect width="295" height="158" rx="14" fill="url(#card-bg-1)" stroke="url(#border-cyan)" stroke-width="1.2"/>
+    
+    <!-- Top HUD Bar -->
+    <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 285 0 C 290.523 0 295 4.477 295 10 L 295 24 L 0 24 Z" fill="#0f172a" fill-opacity="0.6"/>
+    <text x="14" y="16" class="hud-stat">// 01 • SPATIAL_RADAR</text>
+    <text x="281" y="16" class="hud-stat" text-anchor="end" fill="#38bdf8">TRACKING</text>
+    
+    <!-- Icon Capsule -->
+    <rect x="16" y="36" width="38" height="38" rx="10" fill="#0284c7" fill-opacity="0.2" stroke="#38bdf8" stroke-width="1"/>
+    <text x="35" y="61" font-size="20" text-anchor="middle">🚁</text>
 
-    <!-- Column 3: Smart Hardware -->
-    <g transform="translate(564, 0)">
-      <rect width="256" height="150" rx="14" fill="url(#card-bg)" stroke="url(#focus-border)" stroke-width="1.5"/>
-      <rect x="16" y="16" width="36" height="36" rx="10" fill="#a855f7" fill-opacity="0.25" stroke="#c084fc" stroke-width="1"/>
-      <text x="34" y="39" font-size="18" text-anchor="middle">⚡</text>
-      <text x="62" y="32" class="card-title">Smart Hardware</text>
-      <text x="62" y="47" class="card-tag">EMBEDDED IOT</text>
-      <text x="16" y="78" class="card-desc">
-        <tspan x="16" dy="0">ESP32 microcontrollers,</tspan>
-        <tspan x="16" dy="18">biometric IoT sensors &amp;</tspan>
-        <tspan x="16" dy="18">physical smart contracts.</tspan>
-      </text>
-    </g>
+    <!-- Header Titles -->
+    <text x="64" y="52" class="card-title">AI Drones &amp; Vision</text>
+    <text x="64" y="68" class="card-tag" fill="#38bdf8">COMPUTER VISION</text>
+
+    <!-- Description -->
+    <text x="16" y="98" class="card-desc">
+      <tspan x="16" dy="0">Autonomous drone navigation systems</tspan>
+      <tspan x="16" dy="18">with edge gaze-tracking, spatial mapping</tspan>
+      <tspan x="16" dy="18">&amp; real-time MediaPipe/OpenCV pipelines.</tspan>
+    </text>
+
+    <!-- Tech Indicators -->
+    <rect x="16" y="135" width="263" height="1" fill="#1e293b"/>
+    <circle cx="20" cy="146" r="3" fill="#38bdf8"/>
+    <text x="28" y="149" class="hud-stat" fill="#38bdf8">MEDIA_PIPE • OPENCV • 60 FPS</text>
+  </g>
+
+  <!-- ================= CARD 2: Rust & ZK Proofs ================= -->
+  <g transform="translate(327, 8)">
+    <rect width="295" height="158" rx="14" fill="url(#card-bg-2)" stroke="url(#border-purple)" stroke-width="1.2"/>
+    
+    <!-- Top HUD Bar -->
+    <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 285 0 C 290.523 0 295 4.477 295 10 L 295 24 L 0 24 Z" fill="#0f172a" fill-opacity="0.6"/>
+    <text x="14" y="16" class="hud-stat">// 02 • CRYPTO_ENGINE</text>
+    <text x="281" y="16" class="hud-stat" text-anchor="end" fill="#c084fc">SECURED</text>
+
+    <!-- Icon Capsule -->
+    <rect x="16" y="36" width="38" height="38" rx="10" fill="#7e22ce" fill-opacity="0.2" stroke="#c084fc" stroke-width="1"/>
+    <text x="35" y="61" font-size="20" text-anchor="middle">🛡️</text>
+
+    <!-- Header Titles -->
+    <text x="64" y="52" class="card-title">Rust &amp; ZK Proofs</text>
+    <text x="64" y="68" class="card-tag" fill="#c084fc">ZERO-KNOWLEDGE &amp; WEB3</text>
+
+    <!-- Description -->
+    <text x="16" y="98" class="card-desc">
+      <tspan x="16" dy="0">Decentralized biometric identity &amp; ZK</tspan>
+      <tspan x="16" dy="18">cryptographic protocols ensuring zero</tspan>
+      <tspan x="16" dy="18">data leakage across EVM &amp; IPFS networks.</tspan>
+    </text>
+
+    <!-- Tech Indicators -->
+    <rect x="16" y="135" width="263" height="1" fill="#1e293b"/>
+    <circle cx="20" cy="146" r="3" fill="#c084fc"/>
+    <text x="28" y="149" class="hud-stat" fill="#c084fc">PLONK • SOLIDITY • ETHEREUM</text>
+  </g>
+
+  <!-- ================= CARD 3: Smart Hardware ================= -->
+  <g transform="translate(639, 8)">
+    <rect width="295" height="158" rx="14" fill="url(#card-bg-3)" stroke="url(#border-emerald)" stroke-width="1.2"/>
+    
+    <!-- Top HUD Bar -->
+    <path d="M 0 10 C 0 4.477 4.477 0 10 0 L 285 0 C 290.523 0 295 4.477 295 10 L 295 24 L 0 24 Z" fill="#0f172a" fill-opacity="0.6"/>
+    <text x="14" y="16" class="hud-stat">// 03 • HARDWARE_MESH</text>
+    <text x="281" y="16" class="hud-stat" text-anchor="end" fill="#34d399">CONNECTED</text>
+
+    <!-- Icon Capsule -->
+    <rect x="16" y="36" width="38" height="38" rx="10" fill="#059669" fill-opacity="0.2" stroke="#34d399" stroke-width="1"/>
+    <text x="35" y="61" font-size="20" text-anchor="middle">⚡</text>
+
+    <!-- Header Titles -->
+    <text x="64" y="52" class="card-title">Embedded &amp; IoT</text>
+    <text x="64" y="68" class="card-tag" fill="#34d399">HARDWARE SYSTEMS</text>
+
+    <!-- Description -->
+    <text x="16" y="98" class="card-desc">
+      <tspan x="16" dy="0">ESP32 microcontrollers, biometric sensors</tspan>
+      <tspan x="16" dy="18">&amp; custom firmware bridging physical</tspan>
+      <tspan x="16" dy="18">circuitry with automated cloud runtimes.</tspan>
+    </text>
+
+    <!-- Tech Indicators -->
+    <rect x="16" y="135" width="263" height="1" fill="#1e293b"/>
+    <circle cx="20" cy="146" r="3" fill="#34d399"/>
+    <text x="28" y="149" class="hud-stat" fill="#34d399">ESP32-S3 • I2C/SPI • ARDUINO</text>
   </g>
 </svg>
